@@ -7240,6 +7240,7 @@
 6yxk.com
 6yyy7.com
 6z1gf.cn
+6z6z.com
 6zoxt9.tdum.alibaba.com
 6zu.com
 7-hotel.com
@@ -23105,6 +23106,7 @@ cloudauth-device.aliyuncs.com
 cloudbackup-drcn.cloud.dbankcloud.cn
 cloudbackup1.hicloud.com
 cloudbackupv3-drcn.cloud.dbankcloud.cn
+cloudbase.net
 cloudbility.com
 cloudcache.tencent-cloud.cn
 cloudcache.tencent-cloud.com
@@ -24142,6 +24144,7 @@ cnrv.io
 cns.com.cn
 cns.hk
 cnsaes.org
+cnsaibao.com
 cnsal.com
 cnsat.net
 cnsav.com
@@ -41791,6 +41794,7 @@ hnyinhan.com
 hnyixiao.com
 hnyjsedu.com
 hnykcs.com
+hnylstone.com
 hnyouneng.com
 hnyuandian.com
 hnyuanyou.com
@@ -70858,6 +70862,7 @@ refeng.net
 referee.immomo.com
 referral.coconut.is
 refined-x.com
+refineidea.com
 reformdata.org
 refractorywin.com
 refreshnews2.dftoutiao.com
@@ -71358,6 +71363,7 @@ rjxj.xyz
 rjypay.com
 rjzxw.com
 rkanr.com
+rkaq110.com
 rkdatabase.com
 rkeji.com
 rkgaming.com
@@ -94297,6 +94303,7 @@ xtuan.com
 xtuo.net
 xtutoring.com
 xtxa.net
+xtxcm.com
 xtyx918.com
 xtyxdq.com
 xtyzljs.cn
