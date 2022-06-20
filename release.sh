@@ -186,10 +186,10 @@ function GenerateRules() {
         ;;
         bind9)
             domestic_dns=(
-                "223.5.5.5 port 53"
+                "119.29.29.29 port 53"
             )
             foreign_dns=(
-                "8.8.8.8 port 53"
+                "9.9.9.11 port 9953"
             )
             if [ "${generate_mode}" == "full" ]; then
                 if [ "${generate_file}" == "black" ]; then
@@ -231,10 +231,10 @@ function GenerateRules() {
         ;;
         dnsmasq)
             domestic_dns=(
-                "223.5.5.5#53"
+                "119.29.29.29#53"
             )
             foreign_dns=(
-                "8.8.8.8#53"
+                "9.9.9.11#9953"
             )
             if [ "${generate_mode}" == "full" ]; then
                 if [ "${generate_file}" == "black" ]; then
@@ -317,7 +317,7 @@ function GenerateRules() {
                 "223.5.5.5@853#dns.alidns.com"
             )
             foreign_dns=(
-                "8.8.8.8@853#dns.google"
+                "8.8.4.4@853#dns.google"
             )
             forward_ssl_tls_upstream="yes"
             function GenerateRulesHeader() {
