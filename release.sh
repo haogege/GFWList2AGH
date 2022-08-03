@@ -124,7 +124,7 @@ function GenerateRules() {
             )
             foreign_dns=(
                 # "https://dns.google:443/dns-query"
-                "https://1.0.0.1:443/dns-query"
+                "tls://8.8.4.4:853"
                 # "https://dns11.quad9.net:443/dns-query"
                 # "https://dns64.dns.google:443/dns-query"
                 # "tls://dns.google:853"
