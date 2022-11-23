@@ -9944,6 +9944,7 @@ code.jquery.com
 code.org
 code1984.com
 code4.hk
+codeberg.org
 codeboxapp.com
 codeburst.io
 codecademy.com
@@ -18155,6 +18156,7 @@ heungkongdiscuss.com
 hex.pm
 hex.win
 hexatechvpn.com
+hexdocs.pm
 hexieshe.com
 hexieshe.xyz
 hexxeh.net
