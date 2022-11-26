@@ -3335,6 +3335,7 @@
 2img.hitv.com
 2img.mgtv.com
 2ita.com
+2itcn.com
 2j.qhgbkr.cn
 2j88.com
 2jianli.com
@@ -4427,6 +4428,7 @@
 3snews.net
 3songshu.com
 3stl.com
+3t769up6.com
 3tilabs.com
 3tq6jf.tdum.alibaba.com
 3type.cn
@@ -14691,6 +14693,7 @@ awp-assets2.meituan.net
 awp-static.meituan.net
 awp.meituan.com
 awscf.azchcdnk.com
+awsdns-cn-36.net
 awsdns-cn-57.com
 awsok.com
 awspal.com
@@ -25606,6 +25609,7 @@ cshope.net
 cshu360.com
 cshufanyi.com
 cshxdc.com
+cshyqx.com
 cshzw.com
 csi-china.l.google.com
 csi.gstatic.com
@@ -35697,6 +35701,7 @@ fuyang.baixing.com
 fuyangtv.com
 fuyaogroup.com
 fuych.net
+fuyeor.com
 fuyinchina.com
 fuyou888.com
 fuyoubank.com
@@ -41583,6 +41588,7 @@ hk6vc35k.v1d.szbdyd.com
 hk6vc3da.v1d.szbdyd.com
 hk6vc3ho.v1d.szbdyd.com
 hkaco.com
+hkaik.com
 hkance.com
 hkance.xyz
 hkanews.com
@@ -47002,6 +47008,7 @@ ipcwifi.com
 ipcxz.com
 ipdaili.com
 ipddz.com
+ipdfmaster.com
 ipdftool.com
 ipdianhua.com
 ipdsms.com
@@ -54230,6 +54237,8 @@ lezhuan.com
 lezhuan168.com
 lezhuan365.com
 lezi.com
+lezuan.net
+lezuan9.com
 lf-cdn-tos.bytescm.com
 lf-cdn-tos.bytescm.com.w.kunluncan.com
 lf-hl.snssdk.com
@@ -61872,6 +61881,7 @@ new1cloud.com
 new1cloudcdnct.inter.iqiyi.com
 new1cloudcdnct.inter.iqiyi.com.scc.topgslb.com
 new1cloudcdnct.inter.ptqy.gitv.tv
+new253.com
 new669.com
 newacademic.net
 newadblock.com
@@ -75904,6 +75914,7 @@ shzjwxsns.video.qq.com
 shzkb.com
 shzpin.com
 shzq.com
+shzs-benz-vpc.com
 shzsun.com
 shzzzz.dftoutiao.com
 si-en.com
@@ -82076,6 +82087,7 @@ tmfsdktcp.m.qq.com
 tmfsdktcpv4.m.qq.com
 tmfsdp1.cachenode.cn
 tmgwdz.vip
+tmhhost.com
 tmhong.com
 tmhvps.com
 tmiep.org
@@ -83934,6 +83946,7 @@ tzjovzs.cn
 tzjxl.com
 tzjybeidou.58.com
 tzlib.net
+tzlongwu.com
 tzm66.com
 tzoo-img.com
 tzres.com
@@ -87022,6 +87035,7 @@ vtoutiao.cc
 vtqifk86868.cn
 vtrois.com
 vtuzx.com
+vu99.com
 vue-js.com
 vue5.com
 vuejscaff.com
@@ -88754,6 +88768,7 @@ west263.com
 west95582.com
 west999.com
 westbund.com
+westcits.com
 weste.net
 westengine.com
 westfutu.com
@@ -92665,6 +92680,7 @@ xaztdz.com
 xazzg.com
 xazzp.com
 xazzs.com
+xb.app
 xb.dlservice.microsoft.com
 xb100.net
 xb21cn.com
@@ -94942,6 +94958,8 @@ xs.dmzj.com
 xs.houyi.baofeng.net
 xs.la
 xs.sspu.edu.cn
+xs123.net
+xs123.org
 xs163.net
 xs1h.com
 xs222.tw
@@ -95096,6 +95114,7 @@ xu1s.com
 xu7b.com
 xuanad.com
 xuanba.com
+xuanbar.com
 xuanbiaoqing.com
 xuancaizi.com
 xuanceo.com
@@ -99533,6 +99552,7 @@ xyzone.xyz
 xyzq.com.cn
 xyzs.com
 xyzsq.com
+xyzvo.com
 xyzysmx.com
 xz-development.oss-cn-beijing.aliyuncs.com
 xz-juming.com
@@ -100091,6 +100111,7 @@ ydaobo.com
 ydbimg.com
 ydc360.com
 ydcx.360buyimg.com
+yddff556.xyz
 ydfwgg.com
 ydh.fun
 ydimmi.com
