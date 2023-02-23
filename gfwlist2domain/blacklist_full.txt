@@ -3862,6 +3862,7 @@ ahxxx.club
 ai-kan.net
 ai-wen.net
 ai.binwang.me
+ai.com
 ai.google
 ai4t.com
 aiaa.org
@@ -26226,6 +26227,7 @@ nexpart.com
 nexpart.tv
 next.com
 next11.co.jp
+nextapple.com
 nextbigfuture.com
 nextcomm.com.ar
 nextdigital.com.hk
@@ -27358,6 +27360,7 @@ open.com.hk
 open.firstory.me
 open.spotify.com
 openai.com
+openaiapi-site.azureedge.net
 openaked.com
 openallweb.com
 openamt.com
