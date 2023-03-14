@@ -50479,7 +50479,6 @@ jszks.net
 jszygs.com
 jt-yun.com
 jt62.com
-jt996.com
 jtamc.com
 jtapi.bendibao.com
 jtbole.com
@@ -69356,7 +69355,6 @@ qiyukf.net
 qiyukf.nosdn.127.net
 qiyukf.nosdn.127.net.w.cdngslb.com
 qiyukid.com
-qiyunbook.com
 qiyuntong.com
 qiyunworld.com
 qiyutianxia.com
@@ -75599,7 +75597,6 @@ shu.y.qq.com
 shu163.com
 shu6.y.qq.com
 shuabuapp.com
-shuadanfu.com
 shuai.love
 shuaibo.wang
 shuaigeshe.com
@@ -84161,7 +84158,6 @@ ubmconlinereg.com
 ubmcvideo.baidustatic.com
 ubnt.com
 uboat100.com
-ubooo.com
 uboxol.com
 uboxsale.com
 ubs.sf-express.com
@@ -92206,7 +92202,6 @@ www1.wxnmh.com
 www100.bjmu.edu.cn
 www2.djicdn.com
 www2.xinmin.cn
-www2011india.com
 www3.djicdn.com
 www37430.com
 www4-static.gog-statics.com
@@ -101158,7 +101153,6 @@ yiyuansoft.com
 yiyuantian.com
 yiyuanyi.org
 yiyuetop.com
-yiyult.com
 yiyum.com
 yiyun.n.shifen.com
 yiyurumen.com
@@ -103938,6 +103932,7 @@ zgglkx.com
 zgglyun.com
 zggonglue.com
 zggqzp.com
+zggua.com
 zggx.net
 zggys.com
 zghde.com
