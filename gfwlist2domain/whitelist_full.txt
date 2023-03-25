@@ -5470,6 +5470,7 @@
 51world.win
 51wp.com
 51wtp.com
+51wuditu.com
 51wxjz.com
 51wydj.com
 51wyfl.com
@@ -13945,6 +13946,7 @@ aptchip.com
 aptenon.com
 apusic.com
 apxm.net
+apxnlw.com
 aq.qq.com
 aq.zu.anjuke.com
 aqara.com
@@ -14057,6 +14059,7 @@ arms-retcode.aliyuncs.com
 armstech.byf.com
 armsword.com
 armystar.com
+armzl.com
 arnaz-on-co-jp.icu
 arocmag.com
 arongsoft.com
@@ -24339,6 +24342,7 @@ cnxmyb.cn
 cnxnmy.com
 cnxunkewang.info
 cnxuntu.com
+cnxzm.com
 cny-pro.kwd.inkuai.com
 cnyanglao.com
 cnyicheng.com
@@ -26098,6 +26102,7 @@ cxzw.com
 cy-cdn.com
 cy-cdn.kuaizhan.com
 cy-email.com
+cy-isp.net
 cy.com
 cy1990.com
 cy2009.com
@@ -26650,6 +26655,7 @@ d959c33da1b7a55b8b5e10f902512b35.dlied1.cdntips.net
 d97b3956e88f47d54d10499f0ca8b01e.safeframe.googlesyndication.com
 d9b17e0b456ecd2d.jomoxc.com
 d9b2aa4ed2148697d7b1696c77b28dcb.dlied1.cdntips.net
+d9ym.com
 da-qian.com
 da-quan.net
 da.anythinktech.com
@@ -28067,6 +28073,7 @@ devui.design
 devzeng.com
 dewmobile.net
 dewu.com
+dewu.net
 dewucdn.com
 dewumall.com
 dexian.mobi
@@ -30214,6 +30221,7 @@ driver.lenovo.com.cn
 driverdevelop.com
 driverdl.lenovo.com.cn
 drivergenius.com
+drivers.amd.com
 driversdown.com
 driverzeng.com
 drivethelife.com
@@ -31907,6 +31915,7 @@ echinagov.com
 echinatobacco.com
 echo-isoftstone.com
 echo188.com
+echodns.xyz
 echoing.tech
 echoteen.com
 echuandan.com
@@ -34590,6 +34599,7 @@ fhwlgs.com
 fhycs.com
 fhyx.com
 fhyx.hk
+fhyx.online
 fi1818.com
 fi94.com
 fiberhome.com
@@ -35798,6 +35808,7 @@ fxl1950.com
 fxlbb.com
 fxltsbl.com
 fxm.so
+fxngpih.com
 fxo2opt.com
 fxpan.com
 fxsjcj.kaipuyun.cn
@@ -37089,6 +37100,7 @@ ggerg.com
 ggeye.com
 ggfycufmnscyemidsgj7mgqgmoyd9k29.alicloudwaf.com
 ggg.cool
+ggg868.com
 gggqa.com
 ggic.cmvideo.cn
 ggica.miguvideo.com
@@ -45004,6 +45016,7 @@ iegourl.com
 iejiu.com
 ieliulanqi.com
 ielts68.com
+ieltsabc.com
 ieltschn.com
 iemblog.com
 iemiq.com
@@ -54142,6 +54155,7 @@ lersang.com
 lerye.com
 leshanvc.com
 leshi123.cc
+leshiguang.com
 leshou.com
 leshow.com
 leshu.com
@@ -56463,6 +56477,7 @@ luxianpo.com
 luxiao.com
 luxiwang.com
 luxiyun.com
+luxshare-ict.com
 luxst.com
 luxtarget.com
 luxuqing.com
@@ -63916,7 +63931,6 @@ openqa.com
 openrcv.baidu.com
 openredcloud.com
 openresty.com
-openresty.org
 openrice.com
 openserviceauth.ctrip.com
 openset.wang
@@ -67140,6 +67154,7 @@ promotion.lenovo.com.cn.wswebcdn.com
 promotion.pddpic.com
 promotion.pddpic.com.sched.pddlego-dk.tdnsv5.com
 promotion.waimai.meituan.com
+pronax.tech
 propsad.com
 proresearch.org
 proservice.powerlong.com
@@ -69588,6 +69603,7 @@ qoocc.com
 qooic.com
 qookar.com
 qoqaoligei.com
+qoqkkhy.com
 qos.game.qq.com
 qos.gcloud.qq.com
 qos.qcloud.com
@@ -74581,6 +74597,7 @@ shang360.com
 shangbaolai.com
 shangbiao.com
 shangbiao.store
+shangbiaocheng.com
 shangboo.com
 shangbw.com
 shangc.net
@@ -79666,6 +79683,7 @@ szpiao.com
 szpiaoyi.com
 szpichappy.com
 szpl0.com
+szpldq.net
 szpmi.org
 szpowerpms.com
 szputy.com
@@ -81460,6 +81478,7 @@ tianmao.com
 tianmaying.com
 tianmen.baixing.com
 tianmidian.com
+tianmu.mobi
 tianmupe.com
 tianmupr.com
 tiann90.com
@@ -90401,6 +90420,7 @@ wsproxy.douyu.com
 wsq.cool
 wsqejt.com
 wss.cnzz.com
+wss.ink
 wss.neixin.cn
 wsskj520.cn
 wsssec.com
@@ -90443,6 +90463,7 @@ wtbds.com
 wtc.duoyi.com
 wtc.duoyi.com.dycdn.com
 wtcxs.com
+wtd56.com
 wtdex.com
 wtdms.com
 wting.info
@@ -93378,6 +93399,7 @@ xiaobaoonline.com
 xiaobaostudio.com
 xiaobd.net
 xiaobenzi.com
+xiaobianli8.com
 xiaobingxitong.com
 xiaobu121.com
 xiaocanhulian.com
@@ -93559,6 +93581,7 @@ xiaomingming.org
 xiaomingtaiji.com
 xiaomiqiu.com
 xiaomiquan.com
+xiaomirom.com
 xiaomishu.com
 xiaomiss.com
 xiaomitv.cc
@@ -103513,6 +103536,7 @@ zaijia.com
 zaijiawan.com
 zailouxia.com
 zaiminglvsuo.com
+zainan.cc
 zainanjing365.com
 zaisd.com
 zaitong.net
@@ -106492,6 +106516,7 @@ zuosa.com
 zuoshangbao.com
 zuoshipin.com
 zuoshitu.com
+zuoshouyisheng.com
 zuotishi.com
 zuotixia.com
 zuowen.com
