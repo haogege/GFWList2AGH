@@ -9053,6 +9053,7 @@ huati.cc
 huaxiabao.org
 huaxin.ph
 huayuworld.org
+hub.docker.com
 hub.fastgit.org
 hubblephone.com
 hubg.org
@@ -11243,6 +11244,7 @@ md-t.org
 mdhcdn.com
 mdialog.com
 mdlf.xyz
+mdn.dev
 mdn.mozillademos.org
 mdn.mozit.cloud
 mdnkids.com
@@ -11460,6 +11462,7 @@ miiverse.com
 mike.cz.cc
 mikesoltys.com
 mikocon.com
+mikrotik.com
 miktex.org
 mikuexpo.com
 milehighmedia.com
@@ -14997,6 +15000,7 @@ rotten.com
 rou.video
 roucdn.link
 roughman.net
+routerboard.com
 routledgehandbooks.com
 royalcams.com
 royalsocietypublishing.org
