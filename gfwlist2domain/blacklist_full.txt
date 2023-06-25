@@ -4431,7 +4431,6 @@ crucial.com
 cruel-furies.com
 crunchyroll.com
 crustwebsites.net
-crwdcntrl.net
 cryptocompare.com
 cryptographyengineering.com
 crystalgunnsworld.com
@@ -10683,6 +10682,7 @@ linkideo.com
 linkjunkies.com
 linksalpha.com
 linkshit.com
+linktr.ee
 linkuswell.com
 linotype.com
 linpie.com
@@ -15866,6 +15866,7 @@ smartone.com
 smartoneholdings.com
 smartonerobotics.com
 smartsheet.com
+smashwords.com
 smchbooks.com
 smh.com.au
 smhric.org
