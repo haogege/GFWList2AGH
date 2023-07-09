@@ -3065,7 +3065,6 @@
 24183fdb.qc.x.bsgslb.cn
 2421js.com
 2426c4d3d539985bced80be7fa75482e.dlied1.cdntips.net
-243ty.com
 2441105.cc
 24415126f52baedc7d219c5f9c0f70dc.dlied1.cdntips.net
 24538.com
@@ -3356,7 +3355,6 @@
 2google.com
 2gua.gallerycdn.azure.cn
 2hainan.com
-2hanju.com
 2hanjutv.com
 2haohr.com
 2heng.xin
@@ -7551,7 +7549,6 @@
 77275.cc
 7729.com
 77313.com
-77348k.com
 773495197d7c10911e68c36345fc252e.safeframe.googlesyndication.com
 7735.net
 773960.p23.tc.cdntip.com
@@ -15597,6 +15594,7 @@ baisiweiting.com
 baisu.com
 baitaiad.com
 baitaihuge.com
+baitdu.com
 baiteng.org
 baithu.com
 baitianinfo.com
@@ -16896,6 +16894,7 @@ bgmlist.com
 bgp-com.tuhu.cn
 bgp.cn-north-1.jdcloudcs.com.jcloudlb.com
 bgpv6.music.ntes53.netease.com
+bgrdh.com
 bgren.com
 bgrimm.com
 bgsdk.net
@@ -17051,7 +17050,6 @@ bigboxofmoney.com
 bigc.at
 bigcat.com
 bigcloud.click
-bigcloud.cyou
 bigd.gome.com.cn
 bigda.com
 bigdata-expo.org
@@ -23961,7 +23959,6 @@ cmshowar.gtimg.cn.sched.px-dk.tdnsv6.com
 cmsjournal.net
 cmskcrm.com
 cmsky.com
-cmsn.biz
 cmsrefresh.cp12.ott.cibntv.net
 cmsstatic.ffquan.cn
 cmstool.youku.com
@@ -28612,7 +28609,6 @@ dflow.log.hunantv.com
 dfmc.com
 dfmcastrol.com
 dfmingya.com
-dfn6666.com
 dfp.aa.sdo.com
 dfp.mbcloud.com
 dfp.suning.com
@@ -32933,6 +32929,7 @@ eisoo.com
 eistudy.com
 eit0571.com
 eiv.baidu.com
+ej22g.com
 ej38.com
 ejamad.com
 ejboayh.cn
@@ -34568,7 +34565,6 @@ fateskins.com
 fatiao.pro
 fatjiong.com
 fatkun.com
-fatsoon.com
 fatvg.com
 fav.mix.sina.com.cn
 fav.simba.taobao.com
@@ -36335,7 +36331,6 @@ fuwuqu.com
 fuxiafood.com
 fuxiaohei.me
 fuxinbank.com
-fuxing56.com
 fuxingtech.com
 fuxingwang.com
 fuxunpay.com
@@ -40365,6 +40360,7 @@ handdiy.com
 handfunds.com
 handian027.com
 handone.com
+handpk.com
 handu.com
 handuyishe.com
 handwriting.shuru.qq.com
@@ -45728,7 +45724,6 @@ ieatlu.xyz
 ieayoio.com
 iecdn.com
 iecidc.com
-iecie.com
 iecity.com
 iecnews.com
 iecnu.com
@@ -47633,6 +47628,7 @@ ioahdio.com
 iobs.pingan.com.cn
 iobs.pingan.com.cn.pa.cdn.pingan.com.cn
 iobs02.pingan.com.cn
+ioclab.com
 iocrest.com
 iodraw.com
 ioeyjsb.com
@@ -49087,6 +49083,7 @@ jdjygold.com
 jdkcb.com
 jdkic.com
 jdl.com
+jdlgw.com
 jdluosi.com
 jdlxzx.com
 jdnews.net
@@ -49865,6 +49862,7 @@ jinchuang.org
 jinchutou.com
 jincin.com
 jincon.com
+jindaixx.com
 jindanlicai.com
 jindaodao.com
 jindian120.com
@@ -58736,7 +58734,6 @@ mapdownload.autonavi.com
 mapdx.icast.cn
 mapeng.net
 mapgis.com
-mapgun.com
 mapi-yuba.douyu.com
 mapi.alipay.com
 mapi.alipaydns.com
@@ -63069,6 +63066,7 @@ next.itellyou.cn
 next.itellyou.cn.w.kunluncan.com
 next.poppur.com
 next.xuetangx.com
+nextclass.club
 nextday.im
 nextjoy.com
 nexto2o.com
@@ -71818,6 +71816,7 @@ qwp365.cn
 qwpo2018.com
 qwpr38.com
 qwps.cn
+qwq.kim
 qwq.moe
 qwq.ren
 qwqk.net
@@ -78107,7 +78106,6 @@ sodianwan.com
 sodino.com
 sodocloud.com
 sodocs.net
-sodu.cc
 sody123.com
 soeasysdk.com
 sofabiao.com
@@ -81794,9 +81792,6 @@ tbt.cc
 tburl.in
 tburl.net
 tbuser.com
-tbw-fuzhuang.com
-tbw-hufu.com
-tbw-xie.com
 tbwda.com
 tbxt.com
 tbyfsoft.com
@@ -81897,6 +81892,7 @@ tctip.com
 tctong.com
 tcxw.cc
 tcy365.com
+tcyad.com
 tcyl.pro
 tcylgslb.com
 tcz.name
@@ -84804,7 +84800,6 @@ tv0001.com
 tv002.com
 tv189.com
 tv432.com
-tv5box.com
 tva1.sinaimg.cn
 tva2.sinaimg.cn
 tva3.sinaimg.cn
@@ -85957,6 +85952,7 @@ unigress.com
 unilog.wostore.cn
 unilz588.com
 uninf.com
+uninstall-tools.com
 union-4.com
 union-click.jd.com
 union-click.jd.com.gslb.qianxun.com
@@ -91523,7 +91519,6 @@ wq.360buyimg.com
 wq.360buyimg.com.gslb.qianxun.com
 wq.jd.com
 wq.jd.com.gslb.qianxun.com
-wq14.com
 wq96f9.com
 wqbook.com
 wqc.so
@@ -93851,6 +93846,7 @@ wyduihua.com
 wyh138.com
 wyhos.fun
 wyins.net
+wyjianzhan.com
 wykefu.com
 wyktwx.com
 wykw.com
@@ -94247,6 +94243,7 @@ xcfs-public.xystatic.com
 xcfunds.com
 xcgcwfc.cn
 xcggpt.cn
+xcggzzb.com
 xcgogo.club
 xcgogo.site
 xcgp.com
@@ -100970,6 +100967,7 @@ xydxcloud.com
 xyfc.com
 xyfcw.com
 xyffsb.com
+xyffvip.com
 xyfw.org
 xyfy.fy.gov.cn
 xyg3.com
@@ -105171,7 +105169,6 @@ zbbar.net
 zbbm.chsi.com.cn
 zbcg.mas.gov.cn
 zbfilm.com
-zbfjsj.com
 zbgedu.com
 zbgl.net
 zbgscm.com
@@ -106766,7 +106763,6 @@ zhuhongliang.com
 zhuici.com
 zhuici.net
 zhuiguang.com
-zhuihanju.com
 zhuihuodong.com
 zhuimengyizu.com
 zhuimengzhu.com
@@ -107747,6 +107743,7 @@ zqbsuning.v.trpcdn.net
 zqbsuningipv6.v.trpcdn.net
 zqbzs.cc
 zqcloudgame.com
+zqcyzg.com
 zqfxj.com
 zqgame.com
 zqgreen.com
