@@ -881,6 +881,7 @@ alhayat.com
 alhs.link
 alhs.xyz
 alicejapan.co.jp
+alicloud.com
 aliengu.com
 alipaymo.com
 alive.bar
@@ -4103,6 +4104,7 @@ cmule.com
 cmule.org
 cmx.im
 cn-proxy.com
+cn.com
 cn.dayabook.com
 cn.fmnnow.com
 cn.freeones.com
@@ -4146,6 +4148,8 @@ co.bw
 co.ck
 co.cr
 co.il
+co.in
+co.jp
 co.ke
 co.ls
 co.ma
@@ -4153,6 +4157,7 @@ co.me
 co.mz
 co.ng.mil
 co.nz
+co.th
 co.tv
 co.tz
 co.ug
@@ -4238,6 +4243,7 @@ com.do
 com.ec
 com.ee
 com.eg
+com.es
 com.et
 com.fj
 com.gh
@@ -4246,10 +4252,14 @@ com.google
 com.gt
 com.iq
 com.jm
+com.kh
+com.kw
 com.lb
 com.lc
 com.ly
+com.mm
 com.mt
+com.mx
 com.na
 com.nf
 com.ng
@@ -4258,8 +4268,11 @@ com.np
 com.om
 com.pa
 com.pg
+com.ph
+com.pk
 com.pr
 com.py
+com.qa
 com.ru
 com.sa
 com.sb
@@ -4267,10 +4280,12 @@ com.sl
 com.sv
 com.tj
 com.tn
+com.tr
 com.ua
 com.uk
 com.uy
 com.vc
+com.vn
 comcast.net
 comdotgame.com
 comeav.com
@@ -9500,6 +9515,7 @@ imtagram.com
 imzog.com
 in-disguise.com
 in.com
+in.th
 in99.org
 inaporn.com
 inasian.club
@@ -11759,6 +11775,7 @@ moeaic.gov.tw
 moeero-library.com
 moeerolibrary.com
 moefuns.co
+moegirl.org
 moeimg.net
 moemax.net
 moez-m.com
@@ -13237,6 +13254,7 @@ openjsf.org
 openleaks.org
 openlibrary.org
 openmaps.org
+openmidas.com
 opensea.io
 opensource.google
 opensource.guide
@@ -14646,6 +14664,8 @@ qorno.com
 qpoe.com
 qprize.com
 qq.co.za
+qq.design
+qqgamedesign.com
 qstatus.com
 qt-project.org
 qtrac.eu
@@ -16532,6 +16552,7 @@ suoluo.org
 supanimegames.com
 supchina.com
 superadultgames.com
+supercell.com
 superearsenjoy.com
 superfreevpn.com
 supergratisporno.com
@@ -16852,6 +16873,7 @@ tellme.pw
 tellmewhygame.com
 tenacy.com
 tenbyfotolia.com
+tencent.design
 tenor.com
 tensorflow.org
 tenzinpalmo.com
@@ -18666,6 +18688,7 @@ weekly-economist.com
 weekmag.info
 wefightcensorship.org
 wefong.com
+wegamedeveloper.com
 wego.here.com
 weiboleak.com
 weiboscope.jmsc.hku.hk
