@@ -552,7 +552,6 @@ admeld.com
 adobe-aemassets-value.com
 adobe-audience-finder.com
 adobe-video-partner-finder.com
-adobe.com
 adobe.ipp
 adobe.newoa
 adobe.ntp
@@ -770,7 +769,6 @@ akamai-sucks.net
 akamai-thailand.com
 akamai-thailand.net
 akamai-trials.com
-akamai.com
 akamaiedge.net
 akamaientrypoint.net
 akamaietpcnctest.com
@@ -792,7 +790,6 @@ akamaitech.net
 akamaitechnologies.com
 akamaitechnologies.net
 akamaized-staging.net
-akamaized.net
 akamaizercentral.com
 akamak.com
 akamam.com
@@ -824,7 +821,6 @@ alforattv.net
 alhayat.com
 alhs.link
 alhs.xyz
-alicloud.com
 aliengu.com
 alipaymo.com
 alive.bar
@@ -882,7 +878,6 @@ alphabet.com
 alphabet.info
 alphabetfinance.net
 alphaporno.com
-alphassl.com
 alphera.com
 alphera.net
 alpinelinux.org
@@ -991,7 +986,6 @@ amazonvideo.cc
 amazonvideo.com
 amazonvideodirect.com
 amazonworkdocs.com
-amd.com
 amdfanstore.com
 ameba.jp
 amebame.com
@@ -3724,7 +3718,6 @@ cloudflare-gateway.com
 cloudflare-ipfs.com
 cloudflare-quic.com
 cloudflare.com
-cloudflare.net
 cloudflareaccess.com
 cloudflareapps.com
 cloudflarebolt.com
@@ -3777,7 +3770,6 @@ cmule.com
 cmule.org
 cmx.im
 cn-proxy.com
-cn.com
 cn6.eu
 cnbc.com
 cnbcfm.com
@@ -3804,15 +3796,12 @@ co.bw
 co.ck
 co.cr
 co.il
-co.in
-co.jp
 co.ke
 co.ls
 co.ma
 co.me
 co.mz
 co.nz
-co.th
 co.tv
 co.tz
 co.ug
@@ -3895,7 +3884,6 @@ com.do
 com.ec
 com.ee
 com.eg
-com.es
 com.et
 com.fj
 com.gh
@@ -3904,14 +3892,10 @@ com.google
 com.gt
 com.iq
 com.jm
-com.kh
-com.kw
 com.lb
 com.lc
 com.ly
-com.mm
 com.mt
-com.mx
 com.na
 com.nf
 com.ng
@@ -3920,11 +3904,8 @@ com.np
 com.om
 com.pa
 com.pg
-com.ph
-com.pk
 com.pr
 com.py
-com.qa
 com.ru
 com.sa
 com.sb
@@ -3932,12 +3913,10 @@ com.sl
 com.sv
 com.tj
 com.tn
-com.tr
 com.ua
 com.uk
 com.uy
 com.vc
-com.vn
 comcast.net
 comdotgame.com
 comeav.com
@@ -6002,7 +5981,6 @@ fapxl.com
 faqserv.com
 fareastpornhub.com
 farfetch-apps.com
-farfetch-contents.com
 farfetch.com
 farfetch.net
 faronics.com
@@ -7124,8 +7102,6 @@ globalrescue.net
 globalriskregulator.com
 globalsecurity.org
 globalsign-media.com
-globalsign.com
-globalsign.net
 globalspec.com
 globaltm.org
 globalvoices.org
@@ -8170,7 +8146,6 @@ hp-mns.com
 hp-printing.com
 hp-webplatform.com
 hp-ww.com
-hp.com
 hp.company
 hp3d.com
 hp3dmetals.com
@@ -8750,7 +8725,6 @@ imtagram.com
 imzog.com
 in-disguise.com
 in.com
-in.th
 in99.org
 inaporn.com
 inasian.club
@@ -10897,7 +10871,6 @@ modrinth.com
 moeero-library.com
 moeerolibrary.com
 moefuns.co
-moegirl.org
 moeimg.net
 moemax.net
 moez-m.com
@@ -11700,7 +11673,6 @@ nike-org.com
 nike-uk.com
 nike-us.com
 nike-usa.com
-nike.com
 nike.shop
 nike0594.com
 nike23.com
@@ -12275,7 +12247,6 @@ openjsf.org
 openleaks.org
 openlibrary.org
 openmaps.org
-openmidas.com
 opensea.io
 opensource.google
 opensource.guide
@@ -12309,7 +12280,6 @@ opus-gaming.com
 or.id
 or.jp
 or.kr
-oracle.com
 oraclecloud.com
 oraclefoundation.org
 oracleimg.com
@@ -12919,7 +12889,6 @@ playpornogames.com
 playsexygame.com
 playshowtv.com
 playstation.com
-playstation.net
 playvalorant.com
 playvids.com
 playwarcraft3.com
@@ -13612,14 +13581,11 @@ qooza.hk
 qorno.com
 qpoe.com
 qprize.com
-qq.design
-qqgamedesign.com
 qstatus.com
 qt-project.org
 qtrac.eu
 qtweeter.com
 qualcomm-email.com
-qualcomm.com
 qualcommhalo.com
 qualcommlabs.com
 qualcommmea.com
@@ -13846,7 +13812,6 @@ redditmedia.com
 redditstatic.com
 redfaptube.com
 redgifs.com
-redhat.com
 redhat.org
 redhotlabs.com
 redislabs.com
@@ -15055,7 +15020,6 @@ ssh91.com
 sshs.club
 sshs.pw
 sshs.xyz
-ssl-images-amazon.com
 ssl.com
 ssl443.org
 sslpaypal.org
@@ -15290,7 +15254,6 @@ suoluo.org
 supanimegames.com
 supchina.com
 superadultgames.com
-supercell.com
 superearsenjoy.com
 superfreevpn.com
 supergratisporno.com
@@ -15581,7 +15544,6 @@ tellme.pw
 tellmewhygame.com
 tenacy.com
 tenbyfotolia.com
-tencent.design
 tenor.com
 tensorflow.org
 tenzinpalmo.com
@@ -16431,7 +16393,6 @@ uber-assets.com
 uber.com
 ubereats.com
 uberproxy.net
-ubi.com
 ubisoft.com
 ubisoftconnect.com
 ubnw.net
@@ -17256,7 +17217,6 @@ weekly-economist.com
 weekmag.info
 wefightcensorship.org
 wefong.com
-wegamedeveloper.com
 weiboleak.com
 weihuo.org
 weijingsheng.org
@@ -17431,9 +17391,7 @@ windowsazure.com
 windowscommunity.net
 windowsmarketplace.com
 windowsphone-int.com
-windowsphone.com
 windowsphoneme.com
-windowssearch.com
 windowsuem.com
 windscribe.com
 windy.com
