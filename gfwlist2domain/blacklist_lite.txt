@@ -140,7 +140,6 @@
 2017.hk
 2019baidu.xyz
 2021hkcharter.com
-2022.dev
 2047.name
 2049bbs.xyz
 21andy.com
@@ -270,7 +269,6 @@
 4tubefree.net
 4u4c.com
 500caocao.com
-50dh.app
 50plusmilfs.com
 50webs.com
 51cg1.com
@@ -278,7 +276,6 @@
 51jav.org
 51luoben.com
 51luoli.info
-51mh.app
 51pincha.cc
 520avtv.com
 5278.cc
@@ -397,7 +394,6 @@
 9001700.com
 908taiwan.org
 91avfuli.com
-91cy.app
 91dy.club
 91fans.org
 91jinman.com
@@ -577,7 +573,6 @@ adgoogle.net
 adguard-dns.com
 adguard-vpn.com
 adguard-vpn.online
-adguard.app
 adguard.com
 adguard.info
 adguard.org
@@ -1001,7 +996,6 @@ amazon-jp-recruiting.com
 amazon-lantern.com
 amazon-launchpad.com
 amazon.com
-amazon.dev
 amazon.jobs
 amazon.red
 amazonalexavoxcon.com
@@ -1055,7 +1049,6 @@ amnyemachen.org
 amodoll.com
 amoiist.com
 amourangels.com
-amp.dev
 amplifyapp.com
 amplifyframework.com
 ampproject.com
@@ -1876,7 +1869,6 @@ bb-chat.tv
 bb33.net
 bbbaihu.vip
 bbc-anal.com
-bbc-reporting-api.app
 bbc.com
 bbc.in
 bbcchinese.com
@@ -3274,7 +3266,6 @@ cartoontube.com
 cartoonville.net
 cas.org
 casadeltibetbcn.org
-cash.app
 cash2.com
 cashback69.com
 cashbycashapp.com
@@ -3631,7 +3622,6 @@ chromebook.com
 chromecast.com
 chromeenterprise.google
 chromeexperiments.com
-chromeos.dev
 chromercise.com
 chromestatus.com
 chronicle.security
@@ -3807,7 +3797,6 @@ cloudinsights.com
 cloudlive.com
 cloudlock.com
 cloudokyo.cloud
-cloudproxy.app
 cloudrobotics.com
 cloudvolumes.com
 cloudyzgirl.com
@@ -3998,7 +3987,6 @@ comicuniverse.org
 comixzilla.com
 commandandconquer.com
 commandarms.com
-comments.app
 commentshk.com
 commerceos.com
 communistcrimes.org
@@ -4015,7 +4003,6 @@ comparitech.com
 compileheart.com
 componentkit.org
 compress.to
-compresspdf.new
 computer.org
 computingreviews.com
 compython.net
@@ -4273,7 +4260,6 @@ d2bay.com
 d2mrry2to5rg.com
 d2pass.com
 da-files.com
-da3dsoul.dev
 daboja18.com
 dabr.eu
 dabr.me
@@ -4352,9 +4338,7 @@ darktech.org
 darktoy.net
 darpa.mil
 darrenliuwei.com
-dart.dev
 dartlang.org
-dartpad.dev
 darwinsource.com
 darwinsource.org
 darwinsourcecode.com
@@ -4427,7 +4411,6 @@ dechamora.com
 deck.ly
 decodet.co
 decorativemodels.com
-decrypt.day
 deepdiscount.com
 deeper.com
 deepfake-porn.com
@@ -4461,7 +4444,6 @@ denpasoft.com
 dentalhypotheses.com
 dependabot.com
 depositphotos.com
-deps.dev
 deps.info
 deribit.com
 derpibooru.org
@@ -4510,7 +4492,6 @@ devm2m.com
 devopsassessment.net
 devopsms.com
 devpn.com
-devsitetest.how
 devtools-paypal.com
 dewitwithdurex.com
 dexterhorn.com
@@ -4632,12 +4613,10 @@ discord-activities.com
 discord.co
 discord.com
 discord.design
-discord.dev
 discord.gg
 discord.gift
 discord.gifts
 discord.media
-discord.new
 discord.store
 discord.tools
 discordactivities.com
@@ -5453,7 +5432,6 @@ entrustdatacard.com
 environment.google
 epac.to
 epicbrowser.com
-epicgames.dev
 epicreads.com
 epigeum.com
 epikporn.com
@@ -6363,14 +6341,11 @@ fljmh.com
 fljmh1.com
 flnet.org
 flog.tw
-floorp.app
 floppy-tits.com
-flow.dev
 flow.org
 flowtype.org
 fluidpreview.com
 flurry.com
-flutter.dev
 flutterapp.com
 flyflv.com
 flyingjizz.com
@@ -6778,7 +6753,6 @@ ftvmilfs.com
 ftx.com
 fu62.vip
 fucd.com
-fuchsia.dev
 fuck-xxx-movies.com
 fuck.com
 fuck55.net
@@ -6843,7 +6817,6 @@ furrypornvideos.com
 furuke.com
 fury.blog
 fury.co
-fury.dev
 fury.help
 fuskator.com
 futanarihq.com
@@ -6876,8 +6849,6 @@ g-tun.com
 g-tvapp.com
 g-xxxhub.com
 g.co
-g.dev
-g.page
 g0v.social
 g1d1goob.xyz
 g6hentai.com
@@ -6943,7 +6914,6 @@ gatedata.org
 gateimg.com
 gateio.live
 gateio.services
-gateway.dev
 gather.com
 gatherproxy.com
 gay0day.com
@@ -7055,9 +7025,7 @@ gerritcodereview.com
 get.app
 get.dev
 get.how
-get.new
 get.page
-get.rsvp
 getadblock.com
 getastrill.com
 getbootstrap.com
@@ -7178,13 +7146,11 @@ githack.com
 github.blog
 github.com
 github.community
-github.dev
 github.io
 githubapp.com
 githubassets.com
 githubhackathon.com
 githubnext.com
-githubpreview.dev
 githubstatus.com
 githubuniverse.com
 githubusercontent.com
@@ -7247,7 +7213,6 @@ go-lang.net
 go-lang.org
 go-pki.com
 go.com
-go.dev
 go.jp
 go141.com
 go2av.com
@@ -7571,7 +7536,6 @@ greenreadings.com
 greenvpn.net
 greenvpn.org
 greginhollywood.com
-gridaware.app
 grindr.com
 grooby.com
 grotty-monday.com
@@ -7727,7 +7691,6 @@ hautelookcdn.com
 have8.com
 haveibeenpwned.com
 hawaiibmw.com
-hayabusa.dev
 hayabusa.media
 hbabit.com
 hbfile.net
@@ -7750,7 +7713,6 @@ hcpdts.com
 hd-tubes.com
 hd1999.top
 hdabla.net
-hdb1.app
 hdbigass.com
 hddgames.cc
 hddirectv.com
@@ -7971,7 +7933,6 @@ hexatronik.com
 hexieshe.com
 hexieshe.xyz
 hexxeh.net
-hey.boo
 heydoga.com
 heydouga.com
 heywire.com
@@ -8638,7 +8599,6 @@ ids-apple.com
 idsam.com
 idservice.inc
 idv.tw
-idx.dev
 ie10.com
 ie11.com
 ie8.co
@@ -8914,7 +8874,6 @@ infowarsmedia.com
 infrapedia.com
 ingads.com
 ingka.com
-ingka.dev
 ingkacentres.com
 ingress.com
 ingyenszexvideo.top
@@ -9741,7 +9700,6 @@ keycdn.com
 keyhole.com
 keyporntube.com
 keytransparency.com
-keytransparency.foo
 keytransparency.org
 kfd.me
 khabdha.org
@@ -10058,7 +10016,6 @@ librarylovefest.com
 libraryofthumbs.com
 libredd.it
 librewolf.net
-libsolutions.app
 libsolutions.net
 licdn.com
 licensebuttons.net
@@ -10612,10 +10569,7 @@ md-t.org
 mdhcdn.com
 mdialog.com
 mdlf.xyz
-mdn.dev
 mdnkids.com
-mdnplay.dev
-mdnyalp.dev
 mdpi.com
 mdpj-mov.shop
 me-gay.com
@@ -10638,7 +10592,6 @@ medium.com
 medium.systems
 medrxiv.org
 meendo.com
-meet.new
 meetandfuck.games
 meetandfuckgames.com
 meetav.com
@@ -11037,7 +10990,6 @@ mobileinternational.com
 mobilemarketo.com
 mobileporngames.com
 mobilepornmovies.com
-mobileview.page
 mobilevrxxx.com
 mobileways.de
 moby.to
@@ -11712,7 +11664,6 @@ netflixdnstest8.com
 netflixdnstest9.com
 netflixinvestor.com
 netflixtechblog.com
-netlify.app
 netlify.com
 netlifystatus.com
 netme.cc
@@ -11737,7 +11688,6 @@ new-3lunch.net
 new-akiba.com
 new-jero.net
 new-redtube.com
-new.day
 new3dcomics.com
 new96.ca
 newbeatsblackfriday.com
@@ -12052,7 +12002,6 @@ nokiantyres.com
 nokogiri.org
 nokola.com
 nomachine.com
-nomulus.foo
 nondh-room.mom
 nonktube.com
 nonstopfap.com
@@ -12070,7 +12019,6 @@ norsk.mobi
 notepad-plus-plus.org
 notion-static.com
 notion.com
-notion.new
 notion.site
 nottinghampost.com
 novelasia.com
@@ -12331,7 +12279,6 @@ oli-school.com
 olumpo.com
 olympicwatch.org
 omafotze.com
-omaps.app
 omct.org
 omekinteractive.com
 omg.blog
@@ -12358,7 +12305,6 @@ onani-daisuki.com
 onapp.com
 onbeatsbydresale.com
 one.one
-one889.app
 oneapi.com
 onedinesfree.com
 onedrive.co
@@ -12455,8 +12401,6 @@ openmaps.org
 opensea.io
 opensource.google
 opensource.guide
-opensourceinsight.dev
-opensourceinsights.dev
 openssl.org
 openstreetmap.com
 openstreetmap.net
@@ -12505,7 +12449,6 @@ org.uk
 org.za
 organharvestinvestigation.net
 organiccrap.com
-organicmaps.app
 orgasm.com
 orgasmlist.com
 orgfree.com
@@ -12868,7 +12811,6 @@ pcloud.com
 pcre.org
 pctlwm.com
 pdetails.com
-pdf.new
 pdncommunity.com
 pdproxy.com
 pdxbmw.com
@@ -13434,7 +13376,6 @@ pornpics.com
 pornpost.net
 pornpros.com
 pornprosnetwork.com
-pornproxy.app
 pornqd.com
 pornrabbit.com
 pornrapidshare.com
@@ -13703,7 +13644,6 @@ pugpig-stage.com
 pugpig.com
 pullfolio.com
 pullstring.net
-pulsebrowser.app
 punishbang.com
 punishworld.com
 punyu.com
@@ -14081,7 +14021,6 @@ rentaride.com
 renyurenquan.org
 renzhe.cloud
 repe21.com
-repo.new
 repsneakermall.com
 repswing.com
 rerouted.org
@@ -14237,7 +14176,6 @@ ruleporn.com
 rumah123.com
 rumble.com
 rumporn.com
-run.app
 runbtx.com
 rundf665.cyou
 runfission.com
@@ -14815,7 +14753,6 @@ shoers.com
 shoestop2.com
 shooshtime.com
 shop-headphones.net
-shop.app
 shopbeatsdre.com
 shopbmwmotorcycles.com
 shopbmwusa.com
@@ -14830,7 +14767,6 @@ shopeemobile.com
 shopfacebook.com
 shopibay.net
 shopify.com
-shopify.dev
 shopifycdn.com
 shopifycloud.com
 shopifystatus.com
@@ -14872,7 +14808,6 @@ sidelinessportseatery.com
 siege-amazon.com
 sierrafriendsoftibet.org
 sigmoidoscopeexam.com
-sign.new
 signal.art
 signal.org
 signalbar.com
@@ -14899,7 +14834,6 @@ simply-hentai.com
 simplyipod.com
 sing68.com
 singfortibet.com
-singlelogin.app
 singlelogin.me
 singlelogin.site
 singtao.ca
@@ -15269,7 +15203,6 @@ srocket.us
 srtcdn.net
 srwwu.uno
 ss-link.com
-ss7.app
 ssdevrd.com
 ssglobal.co
 ssglobal.me
@@ -15310,11 +15243,9 @@ stackoverflow.email
 stackoverflowbusiness.com
 stackoverflowcareers.com
 stackpath.com
-stackpath.dev
 stacksnippets.net
 stacksocial.com
 stacyvandenbergboobs.com
-stadia.dev
 stage64.hk
 standardsuniversity.org
 standupfortibet.org
@@ -15816,7 +15747,6 @@ terapeak.info
 teraperk.com
 termius.com
 termux.com
-termux.dev
 termux.org
 terragraph.com
 terrapeak.com
@@ -15836,7 +15766,6 @@ tferwq.com
 tfhub.dev
 tfiflve.com
 tfsallin.net
-tg.dev
 tgirlcentral.com
 tgirlpostop.com
 tgp6.com
@@ -16801,7 +16730,6 @@ uselessjunk.com
 usembassy.gov
 useplannr.com
 userapi.com
-usercontent.dev
 usertrust.com
 usfk.mil
 usma.edu
@@ -16871,7 +16799,6 @@ v2ray.cool
 v2raycn.com
 v2raytech.com
 v7hds.com
-v8.dev
 v8project.org
 vagabundasdoorkut.net
 vaginacontest.com
@@ -17025,7 +16952,6 @@ vidinfo.org
 vidmpreview.com
 vidown.com
 vidspornoduro.com
-viet69.dev
 viet69.link
 viet69.news
 vietdaikynguyen.com
@@ -17140,9 +17066,6 @@ vk.com
 vk.design
 vk.link
 vkcache.com
-vkgo.app
-vklive.app
-vkmessenger.app
 vkmessenger.com
 vkuseraudio.com
 vkuserlive.net
@@ -17318,7 +17241,6 @@ vrv.co
 vsallin.net
 vscode-cdn.net
 vscode-unpkg.net
-vscode.dev
 vsezoo.com
 vsphere.com
 vsphere.net
@@ -17439,7 +17361,6 @@ wearehairy.com
 wearn.com
 weav.xyz
 web-instagram.net
-web.app
 web.dev
 web.id
 web2project.net
@@ -18180,7 +18101,6 @@ xvirtual.com
 xvxx.stream
 xvxxtube.com
 xx-map.com
-xx9.app
 xxbay.com
 xxbb9.com
 xxbbx.com
@@ -18490,7 +18410,6 @@ youtu.be
 youtube-nocookie.com
 youtube.co
 youtube.com
-youtube.soy
 youtubecisco.com
 youtubecn.com
 youtubefanfest.com
@@ -18585,7 +18504,6 @@ z-lib.org
 z00.world
 z18r.co
 z18r.com
-z5.app
 z5.com
 z676869.com
 za77.xyz
@@ -18600,7 +18518,6 @@ zatrahal.online
 zattoo.com
 zavat.pw
 zazzybabes.com
-zb.app
 zb.com
 zb.live
 zbporn.com
@@ -18628,7 +18545,6 @@ zendesk.com
 zengjinyan.org
 zenmate.com
 zenodo.org
-zeplin.dev
 zeriamerikes.com
 zerochan.net
 zerohedge.com

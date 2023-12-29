@@ -146,7 +146,6 @@
 2017.hk
 2019baidu.xyz
 2021hkcharter.com
-2022.dev
 2047.name
 2049bbs.xyz
 21andy.com
@@ -283,7 +282,6 @@
 4tubefree.net
 4u4c.com
 500caocao.com
-50dh.app
 50plusmilfs.com
 50webs.com
 51cg1.com
@@ -291,7 +289,6 @@
 51jav.org
 51luoben.com
 51luoli.info
-51mh.app
 51pincha.cc
 520avtv.com
 5278.cc
@@ -413,7 +410,6 @@
 9001700.com
 908taiwan.org
 91avfuli.com
-91cy.app
 91dy.club
 91fans.org
 91jinman.com
@@ -615,7 +611,6 @@ adgoogle.net
 adguard-dns.com
 adguard-vpn.com
 adguard-vpn.online
-adguard.app
 adguard.com
 adguard.info
 adguard.org
@@ -1074,7 +1069,6 @@ amazon-lantern.com
 amazon-launchpad.com
 amazon.co.jp
 amazon.com
-amazon.dev
 amazon.jobs
 amazon.red
 amazonalexavoxcon.com
@@ -1131,7 +1125,6 @@ amodoll.com
 amoiist.com
 amourangels.com
 amp.akamaized.net
-amp.dev
 amplifyapp.com
 amplifyframework.com
 ampproject.com
@@ -2030,7 +2023,6 @@ bb-chat.tv
 bb33.net
 bbbaihu.vip
 bbc-anal.com
-bbc-reporting-api.app
 bbc.co.uk
 bbc.com
 bbc.in
@@ -2096,7 +2088,6 @@ bcsecure01-a.akamaihd.net
 bcvp0rtal.com
 bcy01.com
 bdawnvr.xyz
-bdn.dev
 bdsm-mov.net
 bdsm.com
 bdsm123.xyz
@@ -3553,7 +3544,6 @@ cartoonville.net
 cas.org
 casadeltibetbcn.org
 casatibet.org.mx
-cash.app
 cash2.com
 cashback69.com
 cashbycashapp.com
@@ -3957,7 +3947,6 @@ chromebook.com
 chromecast.com
 chromeenterprise.google
 chromeexperiments.com
-chromeos.dev
 chromercise.com
 chromestatus.com
 chromium.org
@@ -4144,7 +4133,6 @@ cloudinsights.com
 cloudlive.com
 cloudlock.com
 cloudokyo.cloud
-cloudproxy.app
 cloudrobotics.com
 cloudsync-prod.s3.amazonaws.com
 cloudvolumes.com
@@ -4359,7 +4347,6 @@ comicuniverse.org
 comixzilla.com
 commandandconquer.com
 commandarms.com
-comments.app
 commentshk.com
 commerceos.com
 communistcrimes.org
@@ -4377,7 +4364,6 @@ comparitech.com
 compileheart.com
 componentkit.org
 compress.to
-compresspdf.new
 computer.org
 computingreviews.com
 compython.net
@@ -4664,7 +4650,6 @@ d33wubrfki0l68.cloudfront.net
 d3c33hcgiwev3.cloudfront.net
 d3rhr7kgmtrq1v.cloudfront.net
 da-files.com
-da3dsoul.dev
 daboja18.com
 dabr.co.uk
 dabr.eu
@@ -4751,9 +4736,7 @@ darktech.org
 darktoy.net
 darpa.mil
 darrenliuwei.com
-dart.dev
 dartlang.org
-dartpad.dev
 dartsearch.net
 darwinsource.com
 darwinsource.org
@@ -4834,7 +4817,6 @@ dechamora.com
 deck.ly
 decodet.co
 decorativemodels.com
-decrypt.day
 deepdiscount.com
 deeper.com
 deepfake-porn.com
@@ -4871,7 +4853,6 @@ denpasoft.com
 dentalhypotheses.com
 dependabot.com
 depositphotos.com
-deps.dev
 deps.info
 derekhsu.homeip.net
 deribit.cdn.prismic.io
@@ -4929,7 +4910,6 @@ devm2m.com
 devopsassessment.net
 devopsms.com
 devpn.com
-devsitetest.how
 devtools-paypal.com
 dewitwithdurex.com
 dexterhorn.com
@@ -5056,12 +5036,10 @@ discord-activities.com
 discord.co
 discord.com
 discord.design
-discord.dev
 discord.gg
 discord.gift
 discord.gifts
 discord.media
-discord.new
 discord.store
 discord.tools
 discordactivities.com
@@ -5933,7 +5911,6 @@ epa.gov.tw
 epac.to
 epicbrowser.com
 epicgames.com
-epicgames.dev
 epicreads.com
 epigeum.com
 epikporn.com
@@ -6898,14 +6875,11 @@ fljmh.com
 fljmh1.com
 flnet.org
 flog.tw
-floorp.app
 floppy-tits.com
-flow.dev
 flow.org
 flowtype.org
 fluidpreview.com
 flurry.com
-flutter.dev
 flutterapp.com
 flyflv.com
 flyingjizz.com
@@ -7335,7 +7309,6 @@ ftvnews.com.tw
 ftx.com
 fu62.vip
 fucd.com
-fuchsia.dev
 fuck-xxx-movies.com
 fuck.com
 fuck55.net
@@ -7400,7 +7373,6 @@ furrypornvideos.com
 furuke.com
 fury.blog
 fury.co
-fury.dev
 fury.help
 fuskator.com
 futanarihq.com
@@ -7434,9 +7406,7 @@ g-tun.com
 g-tvapp.com
 g-xxxhub.com
 g.co
-g.dev
 g.kfd.me
-g.page
 g0v.social
 g1d1goob.xyz
 g6hentai.com
@@ -7508,7 +7478,6 @@ gatedata.org
 gateimg.com
 gateio.live
 gateio.services
-gateway.dev
 gateway.pinata.cloud
 gather.com
 gatherproxy.com
@@ -7627,9 +7596,7 @@ gerritcodereview.com
 get.app
 get.dev
 get.how
-get.new
 get.page
-get.rsvp
 getadblock.com
 getastrill.com
 getbootstrap.com
@@ -7754,13 +7721,11 @@ github-cloud.s3.amazonaws.com
 github.blog
 github.com
 github.community
-github.dev
 github.io
 githubapp.com
 githubassets.com
 githubhackathon.com
 githubnext.com
-githubpreview.dev
 githubstatus.com
 githubuniverse.com
 githubusercontent.com
@@ -7828,7 +7793,6 @@ go-lang.net
 go-lang.org
 go-pki.com
 go.com
-go.dev
 go.jp
 go.nesnode.com
 go.sony.com
@@ -8254,7 +8218,6 @@ greenreadings.com
 greenvpn.net
 greenvpn.org
 greginhollywood.com
-gridaware.app
 grindr.com
 grooby.com
 grotty-monday.com
@@ -8424,7 +8387,6 @@ hautelookcdn.com
 have8.com
 haveibeenpwned.com
 hawaiibmw.com
-hayabusa.dev
 hayabusa.media
 hbabit.com
 hbfile.net
@@ -8450,7 +8412,6 @@ hd-tubes.com
 hd.stheadline.com
 hd1999.top
 hdabla.net
-hdb1.app
 hdbigass.com
 hddgames.cc
 hddirectv.com
@@ -8679,7 +8640,6 @@ hexatronik.com
 hexieshe.com
 hexieshe.xyz
 hexxeh.net
-hey.boo
 heydoga.com
 heydouga.com
 heywire.com
@@ -9403,7 +9363,6 @@ ids-apple.com
 idsam.com
 idservice.inc
 idv.tw
-idx.dev
 ie10.com
 ie11.com
 ie8.co
@@ -9699,7 +9658,6 @@ infowarsmedia.com
 infrapedia.com
 ingads.com
 ingka.com
-ingka.dev
 ingkacentres.com
 ingress.com
 ingyenszexvideo.top
@@ -10556,7 +10514,6 @@ keycdn.com
 keyhole.com
 keyporntube.com
 keytransparency.com
-keytransparency.foo
 keytransparency.org
 kfd.me
 khabdha.org
@@ -10898,7 +10855,6 @@ librarylovefest.com
 libraryofthumbs.com
 libredd.it
 librewolf.net
-libsolutions.app
 libsolutions.net
 licdn.cn.cdn20.com
 licdn.com
@@ -11483,12 +11439,9 @@ mdhcdn.com
 mdialog.com
 mdlf.xyz
 mdn.allizom.net
-mdn.dev
 mdn.mozillademos.org
 mdn.mozit.cloud
 mdnkids.com
-mdnplay.dev
-mdnyalp.dev
 mdpi.com
 mdpj-mov.shop
 me-gay.com
@@ -11517,7 +11470,6 @@ medium.systems
 medone-education.thieme.com
 medrxiv.org
 meendo.com
-meet.new
 meetandfuck.games
 meetandfuckgames.com
 meetav.com
@@ -11933,7 +11885,6 @@ mobilelive-hamivideo.cdn.hinet.net
 mobilemarketo.com
 mobileporngames.com
 mobilepornmovies.com
-mobileview.page
 mobilevrxxx.com
 mobileways.de
 moby.to
@@ -12648,7 +12599,6 @@ netflixdnstest8.com
 netflixdnstest9.com
 netflixinvestor.com
 netflixtechblog.com
-netlify.app
 netlify.com
 netlifystatus.com
 netme.cc
@@ -12673,7 +12623,6 @@ new-3lunch.net
 new-akiba.com
 new-jero.net
 new-redtube.com
-new.day
 new3dcomics.com
 new96.ca
 newbeatsblackfriday.com
@@ -13016,7 +12965,6 @@ nokiantyres.com
 nokogiri.org
 nokola.com
 nomachine.com
-nomulus.foo
 nondh-room.mom
 nonktube.com
 nonstopfap.com
@@ -13036,7 +12984,6 @@ notify.dropboxapi.com
 notify.ppy.sh
 notion-static.com
 notion.com
-notion.new
 notion.site
 nottinghampost.com
 novelasia.com
@@ -13321,7 +13268,6 @@ oli-school.com
 olumpo.com
 olympicwatch.org
 omafotze.com
-omaps.app
 omct.org
 omekinteractive.com
 omg.blog
@@ -13350,7 +13296,6 @@ onbeatsbydresale.com
 one.one
 one.one.one
 one.one.one.one
-one889.app
 oneapi.com
 onedinesfree.com
 onedrive.co
@@ -13457,8 +13402,6 @@ openmaps.org
 opensea.io
 opensource.google
 opensource.guide
-opensourceinsight.dev
-opensourceinsights.dev
 openssl.org
 openstreetmap.com
 openstreetmap.net
@@ -13514,7 +13457,6 @@ org.za
 organcare.org.tw
 organharvestinvestigation.net
 organiccrap.com
-organicmaps.app
 orgasm.com
 orgasmlist.com
 orgfree.com
@@ -13908,7 +13850,6 @@ pcstore.com.tw
 pct.org.tw
 pctlwm.com
 pdetails.com
-pdf.new
 pdncommunity.com
 pdproxy.com
 pds.nasa.gov
@@ -14490,7 +14431,6 @@ pornpics.com
 pornpost.net
 pornpros.com
 pornprosnetwork.com
-pornproxy.app
 pornqd.com
 pornrabbit.com
 pornrapidshare.com
@@ -14775,7 +14715,6 @@ pugpig.com
 pullfolio.com
 pullstring.net
 pulse.yahoo.com
-pulsebrowser.app
 punishbang.com
 punishworld.com
 punyu.com
@@ -15181,7 +15120,6 @@ rentaride.com
 renyurenquan.org
 renzhe.cloud
 repe21.com
-repo.new
 repsneakermall.com
 repswing.com
 rerouted.org
@@ -15346,7 +15284,6 @@ ruleporn.com
 rumah123.com
 rumble.com
 rumporn.com
-run.app
 runbtx.com
 rundf665.cyou
 runfission.com
@@ -16039,7 +15976,6 @@ shoers.com
 shoestop2.com
 shooshtime.com
 shop-headphones.net
-shop.app
 shop2000.com.tw
 shopbeatsdre.com
 shopbmwmotorcycles.com
@@ -16056,7 +15992,6 @@ shopeemobile.com
 shopfacebook.com
 shopibay.net
 shopify.com
-shopify.dev
 shopifycdn.com
 shopifycloud.com
 shopifystatus.com
@@ -16099,7 +16034,6 @@ sidelinessportseatery.com
 siege-amazon.com
 sierrafriendsoftibet.org
 sigmoidoscopeexam.com
-sign.new
 signal.art
 signal.org
 signalbar.com
@@ -16128,7 +16062,6 @@ sinchew.com.my
 sing68.com
 singaporepools.com.sg
 singfortibet.com
-singlelogin.app
 singlelogin.me
 singlelogin.site
 singpao.com.hk
@@ -16524,7 +16457,6 @@ ss-link.com
 ss.carryzhou.com
 ss.levyhsu.com
 ss.pythonic.life
-ss7.app
 ss7.vzw.com
 ssdevrd.com
 ssglobal.co
@@ -16569,11 +16501,9 @@ stackoverflow.email
 stackoverflowbusiness.com
 stackoverflowcareers.com
 stackpath.com
-stackpath.dev
 stacksnippets.net
 stacksocial.com
 stacyvandenbergboobs.com
-stadia.dev
 stage64.hk
 standardsuniversity.org
 standupfortibet.org
@@ -17139,7 +17069,6 @@ terapeak.info
 teraperk.com
 termius.com
 termux.com
-termux.dev
 termux.org
 terragraph.com
 terrapeak.com
@@ -17161,7 +17090,6 @@ tferwq.com
 tfhub.dev
 tfiflve.com
 tfsallin.net
-tg.dev
 tgirlcentral.com
 tgirlpostop.com
 tgp6.com
@@ -18204,7 +18132,6 @@ usembassy.gov
 useplannr.com
 userapi.com
 userapi.nytlog.com
-usercontent.dev
 users.skynet.be
 usertrust.com
 usfk.mil
@@ -18282,7 +18209,6 @@ v2ray.cool
 v2raycn.com
 v2raytech.com
 v7hds.com
-v8.dev
 v8project.org
 vagabundasdoorkut.net
 vaginacontest.com
@@ -18454,7 +18380,6 @@ vidinfo.org
 vidmpreview.com
 vidown.com
 vidspornoduro.com
-viet69.dev
 viet69.link
 viet69.news
 vietdaikynguyen.com
@@ -18571,9 +18496,6 @@ vk.com
 vk.design
 vk.link
 vkcache.com
-vkgo.app
-vklive.app
-vkmessenger.app
 vkmessenger.com
 vkuseraudio.com
 vkuserlive.net
@@ -18772,7 +18694,6 @@ vscode-sync-insiders.trafficmanager.net
 vscode-sync.trafficmanager.net
 vscode-unpkg.net
 vscode.blob.core.windows.net
-vscode.dev
 vscode.search.windows.net
 vsezoo.com
 vsmarketplacebadge.apphb.com
@@ -18900,7 +18821,6 @@ wearehairy.com
 wearn.com
 weav.xyz
 web-instagram.net
-web.app
 web.dev
 web.id
 web.nebula-emby.com
@@ -19825,7 +19745,6 @@ xvirtual.com
 xvxx.stream
 xvxxtube.com
 xx-map.com
-xx9.app
 xxbay.com
 xxbb9.com
 xxbbx.com
@@ -20148,7 +20067,6 @@ youtube-nocookie.com
 youtube.co
 youtube.com
 youtube.com.co
-youtube.soy
 youtubecisco.com
 youtubecn.com
 youtubeeducation.com
@@ -20246,7 +20164,6 @@ z-lib.org
 z00.world
 z18r.co
 z18r.com
-z5.app
 z5.com
 z676869.com
 za77.xyz
@@ -20262,7 +20179,6 @@ zatrahal.online
 zattoo.com
 zavat.pw
 zazzybabes.com
-zb.app
 zb.com
 zb.live
 zbporn.com
@@ -20293,7 +20209,6 @@ zengjinyan.org
 zenmate.com
 zenmate.com.ru
 zenodo.org
-zeplin.dev
 zeriamerikes.com
 zerochan.net
 zerohedge.com
