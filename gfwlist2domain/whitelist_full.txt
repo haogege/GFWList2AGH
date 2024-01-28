@@ -1626,6 +1626,7 @@
 1554369.p23.tc.cdntip.com
 155idc.com
 156.n.168810.cn
+156669.com
 156pay.com
 15803.com
 1586f.com
@@ -9345,6 +9346,7 @@
 99997aaa.com
 99998aaa.com
 999ask.com
+999bb222ww.com
 999bj.com
 999brain.com
 999d.com
@@ -12566,6 +12568,7 @@ ambition-soft.com
 ambjl00.com
 ambkct.com
 ambow.com
+amcfortune.com
 amchamchina.org
 amdc-v4.alipaydns.com
 amdc.alipay.com
@@ -16719,6 +16722,7 @@ bertadata.com
 berui.com
 bes.ren
 besc.baidustatic.com
+beschannels.com
 besclouds.com
 besg-bee.com
 besget.com
@@ -20109,6 +20113,7 @@ ccc.sys.miui.com
 ccc.x.jd.com
 ccc.xx578.com
 cccbs.net
+cccccccccccccccccccccccccccccccccccccccccccccc.cc
 cccdun.com
 cccf-cloud.com
 ccchz.com
@@ -20422,6 +20427,7 @@ cddp-track.aligames.com
 cddrhx.cn
 cddscj.com
 cddsgk.com
+cddys.me
 cde-os.com
 cde-ta-g7g.amazon.cn
 cdedu.com
@@ -21300,6 +21306,7 @@ cgylw.com
 cgyou.com
 cgyouxi.com
 cgyu.com
+cgyx.tv
 cgzair.com
 cgzy.net
 cgzyw.com
@@ -27465,6 +27472,7 @@ dakawm.net
 dakayi.cc
 dakele.com
 dalaba.com
+dalao.net
 dalaosz.com
 dalemax.cn
 dali.anjuke.com
@@ -30067,6 +30075,7 @@ dnsdiy.com
 dnsdizhi.com
 dnse0.com
 dnse1.com
+dnse2.com
 dnsfamily.com
 dnsfast.online
 dnsff.com
@@ -32404,6 +32413,7 @@ eaydu.com
 eayou.com
 eayuan.com
 eayyou.com
+eazhm.com
 eazytec-cloud.com
 eb-ind.com
 eb163.com
@@ -32465,6 +32475,7 @@ ebtang.com
 ebtrust.com
 ebuckler.com
 ebways.com
+ebyte.com
 ec-ae.com
 ec-cloudtech.com
 ec-founder.com
@@ -33837,6 +33848,7 @@ eueueu.com
 eugnnn.com
 eui.cc
 euibe.com
+euino.com
 eulike.com
 eulixos.com
 eurasia-montpellier.org
@@ -58952,6 +58964,7 @@ manhuayang.com
 manibnb.com
 maninmusic.com
 manjiwang.com
+manlaxy.com
 manlinggame.com
 manlongye.com
 manluoni.com
@@ -60881,6 +60894,7 @@ mktcloud.jd.com.gslb.qianxun.com
 mktcreator.com
 mktdatatech.com
 mkts.4399sy.com
+mktzb.com
 mktzr.com
 mkuai.net
 mkvcn.com
@@ -68092,6 +68106,7 @@ pocoiq.cn
 pocomagnetic.com
 pocosite.com
 pocsuite.org
+podcast.xyz
 podfest.tech
 podinns.com
 podjiasu.org
@@ -72265,7 +72280,6 @@ qycn.net
 qycn.org
 qycname.com
 qydimg.com
-qyec.com
 qyer.com
 qyerstatic.com
 qyestar.com
@@ -75313,6 +75327,7 @@ sdras.gallerycdn.azure.cn
 sdrcu.com
 sdrsks.org
 sdsf.sspu.edu.cn
+sdsf8.com
 sdsgwy.com
 sdshshb.com
 sdskj.club
@@ -85987,6 +86002,7 @@ ucgslb.net
 uchangdi.com
 uchiha.ltd
 uchis.com
+uchoice.cc
 uchuanbo.com
 ucicq.com
 ucjoy.com
@@ -88766,6 +88782,7 @@ voole.com
 voole.net
 voopoo.com
 voora.net
+vootoo.net
 voovlive.com
 voovmeeting.com
 vortexfun.com
@@ -105753,6 +105770,8 @@ za-credit-outerdata-gateway.zhongan.com
 za-doctor.com
 zabaow.com
 zabeiy.com
+zabiuq.com
+zabiur.com
 zablog.me
 zabtw.tdum.alibaba.com
 zac1993.com
@@ -108258,6 +108277,7 @@ zmmoo.com
 zmndjm.com
 zmnds.com
 zmnedu.com
+zmneysz.com
 zmnoa.com
 zmnrz.com
 zmobuy.com
