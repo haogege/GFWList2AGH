@@ -11952,6 +11952,7 @@ ak7amtyh.v1d.szbdyd.com
 akaifa.com
 akaiwl.com
 akamai.cn
+akamai.com
 akamud.gallerycdn.azure.cn
 akashadata.com
 akaxin.com
@@ -14151,6 +14152,7 @@ apsgo.com
 apsgo.com.w.cdngslb.com
 aptchina.com
 aptchip.com
+aptdn.net
 aptenon.com
 apusic.com
 apxm.net
@@ -25750,7 +25752,6 @@ cqbm2007.com
 cqbnedu.com
 cqbnrc.com
 cqbntv.com
-cqbyer.net
 cqbys.com
 cqcaee.com
 cqcatr.com
@@ -27900,7 +27901,6 @@ data985.com
 dataaq.yy.com
 dataautoupdate7.synology.cn
 databank.yoyi.com.cn
-datacachelocation.com
 datacaciques.com
 datacard.qidian.qq.com.sched.px-dk.tdnsv6.com
 datacenter.live.qcloud.com
@@ -29565,7 +29565,6 @@ diuut.com
 div.io
 divcss5.com
 divepai.com
-divetgallery.com
 diviner.jd.com
 diviner.jd.com.gslb.qianxun.com
 diving-fish.com
@@ -49240,6 +49239,7 @@ janezt.com
 janmeng.com
 janpn.com
 janrain.biz
+janrainservices.com
 japanese.cri.cn
 japi.dftoutiao.com
 japps.cn
@@ -89066,6 +89066,7 @@ vpsxxs.com
 vpszh.com
 vq7736.com
 vq9fep1.cachenode.cn
+vqlai.com
 vqq.admaster.com.cn
 vqqu.cn
 vqs.com
@@ -96688,7 +96689,6 @@ xishiwang.com
 xishuai.com
 xishuai.net
 xishuashuatuan.com
-xisj.com
 xitao88.com
 xitaoinfo.com
 xitek.com
@@ -97374,7 +97374,6 @@ xqnmz.com
 xqs360.com
 xqsbw.com
 xqship.com
-xqtesting.com
 xqvljcqgwj2kiyckdowvqh6mqujte6zu.yundunwaf4.com
 xqwww.com
 xqxiaoya.com
@@ -97495,7 +97494,6 @@ xssousou.com
 xsstomy.com
 xssz.net
 xsteach.com
-xsthmy.com
 xsti.net
 xstore.insights.1688.com
 xstore.insights.1688.com.w.cdngslb.com
