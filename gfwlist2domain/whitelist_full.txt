@@ -995,7 +995,6 @@
 1001g.com
 1001hw.com
 1001p.com
-1001tvs.com
 100248.com
 10037.x.adanxing.com
 10044.cn
@@ -7872,7 +7871,6 @@
 743544d4.qc.x.bsgslb.cn
 744zy.com
 746133bd14b6624f4fcd18b7ba6aaa46.v.smtcdns.net
-746854.sbs
 7474.com
 7477.com
 747wan.com
@@ -12923,13 +12921,7 @@ alibaba.net
 alibabacapital.com
 alibabachengdun.com
 alibabachengdun.net
-alibabacloud.co.in
 alibabacloud.com
-alibabacloud.com.au
-alibabacloud.com.hk
-alibabacloud.com.my
-alibabacloud.com.sg
-alibabacloud.com.tw
 alibabacorp.com
 alibabadesign.com
 alibabadns.com
@@ -17426,7 +17418,6 @@ bdm.ye-su.cn
 bdmjs.xywy.com
 bdmm.xywy.com
 bdmov.a.yximgs.com
-bdn.dev
 bdns-api-test.net
 bdns-boe.com
 bdns-boe.net
@@ -19669,7 +19660,6 @@ brand.lenovo.com.cn.wswebcdn.com
 brand4x4.com
 brandadsstatic.vivo.com.cn
 brandcn.com
-brandkopi.net
 brandpano.com
 brandshow.58.com
 brandsitejp.com
@@ -24578,7 +24568,6 @@ chunmen.com
 chunmi.com
 chunmiaosh.com
 chunqiuwang.com
-chunquff.com
 chunsen.gallerycdn.azure.cn
 chunsheng.com
 chunshuitang.com
@@ -41800,7 +41789,6 @@ gsfzb.com
 gsgs10086.com
 gsgundam.com
 gshhqy.com
-gshou.com
 gshtrl.top
 gsi24.com
 gsicpa.net
@@ -53202,7 +53190,6 @@ jfwypay.com
 jfydgame.com
 jfyf.cc
 jfyiyao.com
-jfyxmm.com
 jfz.com
 jfzhiyao.com
 jg058.com
@@ -58380,7 +58367,6 @@ ky01020.com
 ky01022.com
 ky107.co
 ky151.co
-ky55005.com
 ky5yx.com
 ky7yx.com
 ky958.com
@@ -65373,7 +65359,6 @@ minisforum.com
 minisite.letv.com
 minisite.vidown.cn
 miniso.com
-miniso.jp
 minisohome.cn
 minisoyo.com
 ministudy.com
@@ -69707,7 +69692,6 @@ octscc.com
 octwuhan.com
 oculist.net
 ocwms.com
-ocxcqe.com
 ocznxv.cn
 odaily.news
 odao.com
@@ -70592,7 +70576,6 @@ oreilly.com.cn
 orfactory.com
 org.cn
 org.es
-org.in
 orgcc.com
 orgleaf.com
 orgnitu.net
@@ -98646,7 +98629,6 @@ wlphp.com
 wlqtpolytheatre.com
 wlread.com
 wlrjy.com
-wls911.com
 wlsgjslgy.com
 wlshw.com
 wlski.com
@@ -101921,7 +101903,6 @@ xawhz.com
 xawscu.com
 xawyjx.com
 xaxdwz.xyz
-xaxinghuo.com
 xaxydr.com
 xayabx.com
 xayestar.com
@@ -102679,7 +102660,6 @@ xiaodian.so
 xiaodianpu.com
 xiaodianweb.com
 xiaodigu.com
-xiaodigufz.com
 xiaoding110.com
 xiaodingchui.com
 xiaodongjun.com
@@ -104165,7 +104145,6 @@ xmcbzj.com
 xmccb.com
 xmcdn.com
 xmchong.com
-xmchwl.com
 xmcimg.com
 xmcmn.com
 xmcord.com
@@ -111491,7 +111470,6 @@ yonghe1999.com
 yonghe2008.com
 yongheng.online
 yongheng0852.com
-yongheyinian.com
 yonghongtech.com
 yonghuigj.com
 yonghuivip.com
