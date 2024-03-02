@@ -1598,6 +1598,7 @@ apkmirror.com
 apkmonk.com
 apkplz.com
 apkpure.com
+apkpure.net
 apl-hamivideo.cdn.hinet.net
 aple.com
 aplestore.com
@@ -5507,6 +5508,8 @@ convrgencegame.com
 coobay.com
 cooer.su
 cookiechoices.org
+cookielaw.org
+cookiepro.com
 cool-comics.com
 cool18.com
 coolaler.com
@@ -6260,7 +6263,6 @@ disk.yandex.ru
 disney-asia.com
 disney-discount.com
 disney-plus.net
-disney-portal.my.onetrust.com
 disney-studio.com
 disney-studio.net
 disney.asia
