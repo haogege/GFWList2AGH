@@ -1718,6 +1718,7 @@ archive-it.org
 archive.fo
 archive.is
 archive.li
+archive.md
 archive.org
 archive.ph
 archive.today
