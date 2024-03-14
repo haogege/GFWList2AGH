@@ -3793,6 +3793,8 @@ cableav.tv
 cableav.xyz
 cablegatesearch.net
 cabletvdirectv.com
+cachefly.com
+cachefly.net
 cachinese.com
 cacnw.com
 cactusvpn.com
@@ -4822,6 +4824,7 @@ conair.me
 conan.xxx
 conda.io
 conductrics.com
+congyu.moe
 connaissancesfinancierespratiques.ca
 connect-in-canada.com
 connectcommerce.hk
