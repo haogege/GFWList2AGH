@@ -3049,7 +3049,6 @@
 21shipin.com
 21shte.net
 21sjmg.com
-21skcy.com
 21smov.com
 21so.com
 21softs.com
@@ -5773,7 +5772,6 @@
 51offer.com
 51onb.com
 51oneone.com
-51onlines.com
 51only.com
 51open.net
 51opone.com
@@ -8182,6 +8180,7 @@
 78fz.com
 78gk.com
 78hr.com
+78md.com
 78oa.com
 78tp.com
 78xtv.com
@@ -18033,7 +18032,6 @@ bestcem.com
 bestcovered.com
 bestdo.com
 bestdon.net
-bestebookdownload.com
 bestechnic.com
 bestedm.net
 bestedm.org
@@ -19857,7 +19855,6 @@ bqge.org
 bqgimgs1.cdn.bcebos.com
 bqgwap.com
 bqiapp.com
-bqimg.com
 bqpoint.com
 bqq.gtimg.com
 bqq.gtimg.com.cloud.tc.qq.com
@@ -20193,7 +20190,6 @@ buildface.com
 buildhr.com
 buildjob.net
 buildwaterexpo.com
-buimg.com
 bujiangjiu123.com
 bujie.com
 buka.cn
@@ -27074,7 +27070,6 @@ cogonline.com
 cohesionless.com
 cohesionless.oss-cn-hangzhou.aliyuncs.com
 cohim.com
-cohulu.com
 coilmx.com
 coin-drcn.wallet.hicloud.com
 coin007.com
@@ -30866,6 +30861,7 @@ desc.gome.com.cn.cdn20.com
 descnew.taobao.com
 desdev.cn
 deserts.io
+deshaus.com
 design-engine.org
 design.citic
 design.sspu.edu.cn
@@ -31992,7 +31988,6 @@ djec.net
 djeconomic.com
 djf.com
 djfj.net
-djhgyy.com
 djhjyw.com
 dji.com
 dji.net
@@ -32835,7 +32830,6 @@ dongyun.biz
 dongyun01.com
 dongzhougroup.com
 dongzhuoyao.com
-donhammondbattlecreekmi.com
 donhonet.net
 doniv.net
 donjayamanne.gallerycdn.azure.cn
@@ -35007,6 +35001,7 @@ easytimetv.com
 easytite.com
 easytocn.com
 easytomessage.com
+easytouch-manager.com
 easytouch.com
 easytrip.com
 easyv.cloud
@@ -36730,6 +36725,7 @@ exchangecn.com
 exchen.net
 excm.net
 exdoll.com
+exeedcars.com
 exetools.com
 exexm.com
 exezhanqun.com
@@ -39591,7 +39587,6 @@ fycpu.com
 fyd.houyi.baofeng.net
 fydeos.com
 fydmodel.com
-fydns360.net
 fyeds.com
 fyeds0.com
 fyeds1.com
@@ -48664,7 +48659,6 @@ hxbsth.com
 hxbt.haha5.cn
 hxbt.haha5.cn.cname3030.yjs-cdn.com
 hxbus.net
-hxbxw.com
 hxbylm.vip
 hxc-power.com
 hxcdn.net
@@ -48706,6 +48700,7 @@ hxm3xwcm.v1d.szbdyd.com
 hxmeishi.com
 hxnews.com
 hxny.com
+hxpdd.com
 hxposuiji.com
 hxppw.com
 hxqc.com
@@ -50179,6 +50174,7 @@ ifmx.cc
 ifnews.com
 ifonelab.net
 ifonts.com
+iforce-ad.com
 iforce-media.com
 ifoxfactory.com
 iframe.hitv.com
@@ -71723,7 +71719,6 @@ outlets365.com
 outletscn.com
 outlink.chinaz.com
 outside.aliyun.gslb.aiclk.com
-ouugo.com
 ouvps.com
 ouxiangxiezhen.com
 ouyabosi.com
@@ -72964,6 +72959,7 @@ pdbeta.com
 pdc.dianping.com
 pdc.micloud.xiaomi.net
 pdcuo.com
+pdd-fapiao.com
 pdd.net
 pddcdn.com
 pddeu.com
@@ -79878,6 +79874,7 @@ rl.cj.sina.cn
 rl.go2yd.com
 rl.mail.qq.com
 rlair.net
+rlcdn.com
 rlkj.com
 rlkj.net
 rlmt.iqiyi.com
@@ -81170,6 +81167,7 @@ samsrchina.com
 samsunganycar.com
 samsungassistant.cn
 samsungcloudcn.com
+samsungconnectivity.com
 samsungeshop.com.cn
 samsungfiberoptics.com
 samsunghealthcn.com
@@ -85339,6 +85337,7 @@ smd88.com
 smdcn.net
 smdiban.net
 smdmark.com
+smdx.net
 sme-cn.com
 sme8718.com
 smebb.com
@@ -92213,6 +92212,7 @@ transformer-cn.com
 transfu.com
 transfun.net
 translate.google.cn
+translate.googleapis.com
 translatego.net
 translation-dictionary.net
 translation.googleapis.com
@@ -92337,7 +92337,6 @@ trust-mro.com
 trust-one.com
 trust400.com
 trustasia.com
-trustcommander.net
 trustedsign.com
 trustexporter.com
 trustie.net
@@ -105322,7 +105321,6 @@ xmcymg.com
 xmd5.com
 xmeasygo.com
 xmecard.com
-xmeggs.com
 xmeise.com
 xmeye.net
 xmf.com
@@ -114631,6 +114629,7 @@ yyshangfu.com
 yystatic.bs2cdn.yy.com
 yystatic.com
 yystv.cn
+yysub.net
 yysweb.com
 yytad.com
 yytcdn.com
