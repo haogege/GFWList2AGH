@@ -11063,11 +11063,8 @@ accounts.douban.com
 accounts.epicgames.com
 accounts.firefox.com.cn
 accounts.google.cn
-accounts.googlers.com
 accounts.nvgs.nvidia.cn
 accounts.qq.com
-accounts.xn--9trs65b.com
-accounts.xn--ggle-55da.com
 accscdn.cp12.ott.cibntv.net
 accscdn.m.taobao.com
 accsh.org
@@ -17696,7 +17693,6 @@ beacon.sparta.mig.tencent-cloud.net
 beacon.tingyun.com
 beaconcdn.qq.com
 beaconcdn.qq.com.sched.ssd.tdnsv6.com
-beacons-handoff.gcp.gvt2.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
 beacons2.gvt2.com
@@ -27553,9 +27549,7 @@ corlercar888.com
 corner.houyi.baofeng.net
 coro.benbaisteel.com
 corp-email.com
-corp.goog
 corp.google.com
-corp.googleapis.com
 corp.meitu.com
 corp.sina.com.cn
 corp.sogou.com
@@ -40421,7 +40415,6 @@ gcodex.alicdn.com
 gcok.com
 gcoreinc.com
 gcores.com
-gcpnode.com
 gcs66.com
 gcsjl8.com
 gcstorage.com
@@ -41873,7 +41866,6 @@ googlenav.com
 googleoptimize-cn.com
 googleoptimize.com
 googleplex.com
-googlers.com
 googlesyndication-cn.com
 googlesyndication.com
 googletagmanager-cn.com
@@ -79340,8 +79332,6 @@ redirect.pandora.xiaomi.com
 redirect.simba.taobao.com
 redirector.bdn.dev
 redirector.c.chat.google.com
-redirector.c.docs.google.com
-redirector.c.drive.google.com
 redirector.c.mail.google.com
 redirector.c.pack.google.com
 redirector.c.play.google.com
@@ -94512,8 +94502,6 @@ uowap.hicloud.com
 up-api.sreminder.cn
 up-hl.3g.qq.com
 up.asaplus.com.cn
-up.corp.goog
-up.gcp.googlers.com
 up.hiao.com
 up.inews.qq.com
 up.ninebox.cn
