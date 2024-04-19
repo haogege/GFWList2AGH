@@ -1945,7 +1945,6 @@
 17xxl.com
 17ya.com
 17yaoqu.com
-17yc.com
 17ym.org
 17you.com
 17yucai.com
@@ -15880,6 +15879,7 @@ casdoor.org
 case91.com
 casece.org
 casee.cn
+casemic.com
 cashtoutiao.com
 cashwaytech.com
 casic-addsino.com
@@ -24143,7 +24143,6 @@ dongtu.com
 dongua.com
 dongwm.com
 dongxi.net
-dongxicha.com
 dongxingkonggu.com
 dongxuyitai.com
 dongyaods.com
@@ -36722,6 +36721,7 @@ hzchengdun.com
 hzcnc.com
 hzcopyright.com
 hzcourse.com
+hzctxh.com
 hzcuizhai.com
 hzcy.ltd
 hzdajiangdong.com
@@ -38102,7 +38102,6 @@ imagehub.cc
 imagelol.com
 imagepy.org
 images-cache.com
-images-huoshan.com
 imagestoryai.com
 imageter.com
 imagetotxt.com
@@ -47251,7 +47250,6 @@ lou86.com
 loubobooo.com
 louding.com
 louge.ltd
-louguazi.com
 louislivi.com
 loukee.com
 loukky.com
@@ -49623,7 +49621,6 @@ mibimibi.com
 mibokids.com
 mibugs.com
 mic-s.com
-micad.org
 micai.com
 micai315.com
 micaihu.net
@@ -50035,6 +50032,7 @@ mitiplus.com
 mittrchina.com
 mituir.xyz
 mituo.cn
+mitvos.com
 miued.com
 miui.com
 miuiver.com
@@ -50521,7 +50519,6 @@ molei.net
 molerose.com
 molesdn.com
 molibaike.com
-molibiancheng.com
 molie.com
 molihe.cc
 molihua.net
@@ -53098,7 +53095,6 @@ nyxlzy.com
 nyxr-home.com
 nyxx365.com
 nyxz166.com
-nyyuze.com
 nyzda.top
 nyzdjj.com
 nyzy.com
@@ -56474,6 +56470,7 @@ qianjins.com
 qianju.org
 qianka.com
 qiankunxin.com
+qianlht.com
 qianliao.net
 qianliao.tv
 qianliaowang.com
@@ -64013,7 +64010,6 @@ stuq.com
 stuq.org
 stutimes.com
 stvgame.com
-stw77.com
 stweiwang.com
 stxsw.com
 stxsw.org
@@ -65252,6 +65248,7 @@ szzhangchu.com
 szzhaodaxin.com
 szzs360.com
 szzunbao.com
+szzuting.com
 szzxks.net
 szzxs.com
 szzyqc.net
@@ -69214,6 +69211,7 @@ unitymanual.com
 univ-bio.com
 uniview.com
 univsport.com
+uniwaf.com
 unixfbi.com
 unixhot.com
 unixidc.com
@@ -71719,7 +71717,6 @@ weilongshipin.com
 weilt.net
 weimai.com
 weimaqi.net
-weimeiba.com
 weimeifan.net
 weimeigu.net
 weimiaocaishang.com
@@ -76777,7 +76774,6 @@ xn--jvrp4x1zyfta.net
 xn--jvrr72kgma408a.com
 xn--mnqs00c24c2pw0ii.com
 xn--mtsr39cnql.video
-xn--nqvxwikn87h.com
 xn--ntsp37j.net
 xn--nyqx2gbsm8u0b.com
 xn--nyw032beqlm2f.com
@@ -80211,7 +80207,6 @@ youshop04.com
 youshop10.com
 youshouge513.cn
 youshu.cc
-youshuba.cc
 youshuge.com
 yousuode.cn
 yousuu.com

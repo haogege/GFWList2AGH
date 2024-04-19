@@ -4627,6 +4627,7 @@ cdn.assets.lfpcontent.com
 cdn.helixstudios.net
 cdn.js7k.com
 cdn.jsdelivr.net
+cdn.jwplayer.com
 cdn.printfriendly.com
 cdn.seatguru.com
 cdn.softlayer.net
@@ -7422,6 +7423,7 @@ eternum.io
 etherdelta.com
 ethereum.foundation
 ethereum.org
+ethermine.org
 etherscan.io
 etizer.org
 etnet.com.hk
@@ -7529,6 +7531,7 @@ ezua.com
 f-dro1d.org
 f-droid.com
 f-droid.org
+f2pool.com
 f3b7q2p3.ssl.hwcdn.net
 f5pf.com
 f6988.com
@@ -10769,6 +10772,7 @@ hrcir.com
 hrea.org
 hrecords.jp
 hrichina.org
+hrntt.org
 hrsaz.com
 hrw.org
 hrweb.org
@@ -15649,6 +15653,7 @@ nozomi.la
 npa.go.jp
 npa.gov.tw
 npm.community
+npm.gov.tw
 npmjs.com
 npmjs.org
 npnt.me
@@ -17423,6 +17428,7 @@ postyourgirls.ws
 potato.im
 potenza.jp
 potvpn.com
+pourquoi.tw
 povpornonly.com
 povr.com
 power.com
@@ -24429,6 +24435,7 @@ za77.xyz
 zacebook.com
 zakzak.co.jp
 zalmos.com
+zamimg.com
 zannel.com
 zaobao.com
 zaobao.com.sg
