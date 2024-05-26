@@ -1348,7 +1348,6 @@
 127.com
 127.net
 1278721.com
-12799.com
 127tv.com
 127xx.com
 127z.com
@@ -5506,7 +5505,6 @@
 558idc.com
 55935.vip
 5599.com
-55azt.com
 55bbs.com
 55dai.com
 55dian.com
@@ -9129,6 +9127,7 @@ adoceans.com
 adongyu.com
 adoregeek.com
 adoutu.com
+adparticle.com
 adpchina.com
 adplusx.com
 adpolestar.net
@@ -9358,7 +9357,6 @@ ahbzyy.com
 ahc.ink
 ahcaijing.com
 ahcaw.com
-ahchuangyebang.com
 ahcjhjj.com
 ahcnb.com
 ahcyfc.com
@@ -13688,6 +13686,7 @@ bingjo.com
 binglai.net
 binglanggu.com
 binglianhuajianzhan.com
+bingliekeji.com
 binglingtech.com
 binglixue.com
 bingo321.com
@@ -21915,7 +21914,6 @@ d03jd.com
 d163.net
 d17.cc
 d19119.com
-d1999.com
 d1ad.com
 d1cm.com
 d1com.com
@@ -24159,7 +24157,6 @@ docsj.com
 docsou.com
 doctor-network.com
 doctorcom.com
-doctormnq.com
 doctorscrap.com
 doctorxiong.club
 doctoryou.ai
@@ -26035,6 +26032,7 @@ efang.tv
 efangwang.com
 efapiao.com
 efashionchina.com
+efashioncloud.com
 efe.cc
 efeihu.com
 efengji.org
@@ -26897,6 +26895,7 @@ evzimlox.cn
 ew-wirestripping.com
 ew52.com
 ew80.com
+ew80.net
 ew80yun.com
 ew9z.com
 ewaga.com
@@ -30180,6 +30179,7 @@ gengleyuan.com
 gengnie.com
 gengsan.com
 gengsang.me
+gengshangpin.com
 gengwen.net
 gengzhongbang.com
 geni4s.com
@@ -42942,7 +42942,6 @@ juxia.com
 juxieyun.com
 juxilm.com
 juxin.tv
-juxinfu.com
 juxing-edu.com
 juxingyi.com
 juxinhuizhi.com
@@ -45213,7 +45212,6 @@ kzread.com
 kzt.cc
 kztpms.com
 kzwr.com
-kzynews.com
 kzyzz.com
 kzzs.shop
 l-kingmall.com
@@ -47528,6 +47526,7 @@ lnest.com
 lnfssy.com
 lnfzb.com
 lngche.com
+lnglwl.com
 lngqt.com
 lngwyw.com
 lnhygy.com
@@ -48148,7 +48147,6 @@ ludoworld.net
 ludu319.com
 lueasygi.com
 luedian.com
-luexiao.com
 luexpo.com
 lueyue.com
 luezhi.com
@@ -62742,6 +62740,7 @@ shuoshuokong.org
 shuowan.cc
 shuowan.com
 shuowan.net
+shupackaging.com
 shupaiyun.com
 shuq.net
 shuqi.com
@@ -65415,7 +65414,6 @@ sxldns.com
 sxljldh.top
 sxls.com
 sxmaps.com
-sxmtdz.com
 sxmxwh.com
 sxmyh.com
 sxncb.com
@@ -70249,6 +70247,7 @@ useso.com
 ushaqi.com
 ushendu.com
 ushengame.com
+ushknews.com
 usidt.com
 using.club
 usingde.com
@@ -70289,6 +70288,7 @@ utf8.hk
 utfinancing.com
 utgd.net
 uthinks.com
+utofairy.com
 utogame.com
 utom.design
 utoper.com
@@ -74060,7 +74060,6 @@ wodeshebao.com
 wodeshougong.com
 wodeshucheng.com
 wodeyt.com
-wodiancan.net
 wodidashi.com
 wodingche.com
 wodingwang.com
@@ -75262,7 +75261,6 @@ xajjk.com
 xajjn.com
 xajjwy.com
 xajob.com
-xajr.com
 xajx.com
 xajxcw.com
 xakrlab.com
@@ -75649,7 +75647,6 @@ xflimg.com
 xfliusheng.com
 xflstatic.com
 xflz.xyz
-xfmtcn.com
 xfnano.com
 xfocus.net
 xfocus.org
@@ -81328,6 +81325,7 @@ youziqk.com
 youziyundns.com
 youzonggw.com
 youzu.com
+youzuanmy.vip
 yovisun.com
 yovkr.xyz
 yovocloud.com
@@ -85286,7 +85284,6 @@ zjpjmy.com
 zjpost.com
 zjptcc.com
 zjpubservice.com
-zjqbj.com
 zjqichuang.com
 zjqimeng.com
 zjrc.com
