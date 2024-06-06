@@ -5576,6 +5576,7 @@ devopsms.com
 devpn.com
 devsitetest.how
 devtools-paypal.com
+devv.ai
 dewitwithdurex.com
 dexterhorn.com
 dezyred.com
@@ -13886,6 +13887,7 @@ netflav5.com
 netflix.ca
 netflix.com
 netflix.net
+netflixdnstest0.com
 netflixdnstest1.com
 netflixdnstest10.com
 netflixdnstest2.com
