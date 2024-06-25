@@ -21055,6 +21055,7 @@ c.pc.qq.com
 c.pcs.baidu.com
 c.pcs.n.shifen.com
 c.piecoupon.cn
+c.pki.goog
 c.pwfhjjh.cn
 c.queene.cn
 c.sayhi.360.cn
@@ -50166,6 +50167,7 @@ i.mooc.chaoxing.com
 i.news.qq.com
 i.opiwb.com
 i.pcbeta.com
+i.pki.goog
 i.qianbao.qq.com
 i.qq.com
 i.snssdk.com
@@ -71799,6 +71801,7 @@ o-zaifei.onfac.com
 o.alimb.top
 o.if.qidian.com
 o.phb123.com
+o.pki.goog
 o0o0w.com
 o1.jyjyj.cn
 o136.com
