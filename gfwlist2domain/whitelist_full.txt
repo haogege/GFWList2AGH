@@ -81040,6 +81040,7 @@ openloong.org
 openloongson.org
 openluat.com
 openlyenter.com
+openmidas.com
 openmmlab.com
 openmobile.qq.com
 openmobileqqcom.msf.tencent-cloud.com
@@ -87738,6 +87739,7 @@ qq.cc
 qq.ci
 qq.cn.com
 qq.com
+qq.design
 qq.do
 qq.md
 qq.net
@@ -87803,6 +87805,7 @@ qqeo.com
 qqf5fj2p.sched.sma.tdnsv5.com
 qqgameapp.com
 qqgameappcdn.qq.com
+qqgamedesign.com
 qqgameplatcdn.qq.com
 qqgb.com
 qqgd.com
@@ -102011,6 +102014,7 @@ tenbilliongame.com
 tencdns.com
 tencdns.net
 tencent-blackboard.com
+tencent-cloud.cn
 tencent-cloud.com
 tencent-cloud.net
 tencent-dtv.m.cn.miaozhen.com
@@ -102023,6 +102027,7 @@ tencent.com
 tencent.com.acc.edgeonedy1.com
 tencent.com.cn
 tencent.com.hk
+tencent.design
 tencent.m.cn.miaozhen.com
 tencent.net
 tencent.net.cn
@@ -110862,6 +110867,7 @@ wegame.com
 wegame.com.cn
 wegame.gtimg.com
 wegameapi.com
+wegamedeveloper.com
 wegamefeed-70080.picnjc.qpic.cn
 wegameplus.com
 wegamex.com.hk

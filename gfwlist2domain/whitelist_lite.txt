@@ -63135,6 +63135,7 @@ openloong.org
 openloongson.org
 openluat.com
 openlyenter.com
+openmidas.com
 openmmlab.com
 openmv.cc
 openos.org
@@ -67260,6 +67261,7 @@ qq-xmail.com
 qq.cc
 qq.ci
 qq.com
+qq.design
 qq.do
 qq.md
 qq.net
@@ -67310,6 +67312,7 @@ qqe2.com
 qqeml.com
 qqeo.com
 qqgameapp.com
+qqgamedesign.com
 qqgb.com
 qqgd.com
 qqgexing.com
@@ -77612,12 +77615,14 @@ tenbilliongame.com
 tencdns.com
 tencdns.net
 tencent-blackboard.com
+tencent-cloud.cn
 tencent-cloud.com
 tencent-cloud.net
 tencent-gcloud.com
 tencent-gf.com
 tencent.cn
 tencent.com
+tencent.design
 tencent.net
 tencent333.club
 tencentads.com
@@ -83778,6 +83783,7 @@ wefitos.com
 wefunol.com
 wegame.com
 wegameapi.com
+wegamedeveloper.com
 wegameplus.com
 wegene.com
 wegowan.com
