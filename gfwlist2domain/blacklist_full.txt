@@ -2568,6 +2568,7 @@ azatutyun.am
 azerbaycan.tv
 azerimix.com
 aziani.com
+azirevpn.com
 aznude.com
 azubu.tv
 azure-devices-int.net
@@ -5423,6 +5424,7 @@ clusterconnection.com
 clyp.it
 clzz2.xyz
 cmcn.org
+cmegroup.com
 cmhalq.com
 cmi.org.tw
 cmmedia.com.tw
