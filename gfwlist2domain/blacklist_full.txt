@@ -1499,8 +1499,10 @@ ancsconf.org
 andfaraway.net
 android-x86.org
 android.com
+androidauthority.com
 androidify.com
 androidplus.co
+androidpolice.com
 androidtv.com
 andygod.com
 andysparis.com
@@ -6098,7 +6100,6 @@ dalailama-archives.org
 dalailama.com
 dalailama.mn
 dalailama.ru
-dalailama.usc.edu
 dalailama80.org
 dalailamacenter.org
 dalailamafellows.org
@@ -6439,6 +6440,7 @@ digitalpack.com
 digitalplayground.com
 digitalplaygroundnetwork.com
 digitalprototyping.com
+digitaltrends.com
 diigo.com
 dilber.se
 dilcdn.com
@@ -18873,6 +18875,7 @@ redtube.com
 redtube.com.br
 redtube9.com
 redtubepremium.com
+redvideo.io
 redwap-xxx.com
 redwap.me
 redwap.pro
@@ -20755,6 +20758,7 @@ storesense.com
 stories.google
 storiesonline.net
 storify.com
+storj.io
 storm.mg
 stormmediagroup.com
 storyful.com
@@ -21186,6 +21190,7 @@ techhub.ms
 techliquidators.com
 technics.com
 technologyandsociety.org
+techradar.com
 techspot.com
 techstreet.com
 techtimes.com
@@ -21759,6 +21764,7 @@ tokyotosho.info
 tokyotosho.se
 tomatespodres.com
 tomonews.net
+tomsguide.com
 tonec.com
 tongil.or.kr
 tonicmovies.com
@@ -22481,7 +22487,7 @@ usaco.org
 usaip.eu
 usatoday.com
 usatodaynetworkservice.com
-usc.edu
+uscardforum.com
 uscnpm.org
 uselessjunk.com
 usembassy.gov
@@ -25405,7 +25411,9 @@ zb.live
 zbporn.com
 zctb.buzz
 zdassets.com
+zdnet.com
 zdnet.com.tw
+zdnet.redvideo.io
 zdusercontent.com
 zee.com
 zee5.com
