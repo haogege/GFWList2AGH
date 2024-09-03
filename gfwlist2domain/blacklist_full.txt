@@ -1635,7 +1635,6 @@ api.dropboxapi.com
 api.linksalpha.com
 api.nebula-emby.com
 api.news
-api.proxlet.com
 api.pureapk.com
 api.recaptcha.net
 api.viu.now.com
@@ -3531,7 +3530,6 @@ blog.lester850.info
 blog.martinoei.com
 blog.pathtosharepoint.com
 blog.pentalogic.net
-blog.qooza.hk
 blog.ranxiang.com
 blog.sina.com.tw
 blog.sogoo.org
@@ -12567,6 +12565,7 @@ iutunes.com
 ivacy.com
 iverycd.com
 ivintageporn.com
+ivonblog.com
 ivpn.net
 iwank.tv
 iwantavnow.com
@@ -12606,6 +12605,7 @@ jamanetwork.com
 jambotube.com
 jamestown.org
 jamyangnorbu.com
+jan.ai
 jandyx.com
 janor6.net
 janwongphoto.com
@@ -17464,7 +17464,6 @@ pemulihan.or.id
 pen.io
 penchinese.com
 penchinese.net
-pengyulong.com
 penisbot.com
 pensions-expert.com
 pentalogic.net
@@ -17511,7 +17510,6 @@ phapluan.org
 phayul.com
 pheonix.money
 philborges.com
-philly.com
 phimsex47.club
 phimsexhentai.me
 phimsexkhongche.cyou
@@ -18362,7 +18360,6 @@ provideocoalition.com
 provpnaccounts.com
 proxfree.com
 proxifier.com
-proxlet.com
 proxomitron.info
 proxpn.com
 proxyadult.org
@@ -18536,7 +18533,6 @@ qombol.com
 qoo10.jp
 qooqlevideo.com
 qoos.com
-qooza.hk
 qorno.com
 qpoe.com
 qporno.xxx
@@ -18665,7 +18661,6 @@ rakuya.com.tw
 ramcity.com.au
 randyblue.com
 rangwang.biz
-rangzen.com
 rangzen.net
 rangzen.org
 ranxiang.com
@@ -18673,7 +18668,6 @@ ranyunfei.com
 rapbull.net
 rapefilms.net
 rapetube.me
-rapidgator.net
 rapidmoviez.com
 rapidprototyping-cadcam.com
 rapidssl.com
