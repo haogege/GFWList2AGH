@@ -4005,11 +4005,9 @@
 3830446.com
 3830582.com
 3839.com
-3839apk.com
 3839app.com
 3839app.net
 3839img.com
-3839pay.com
 3839pic.com
 3839vc.com
 3839video.com
@@ -4473,17 +4471,13 @@
 4399er.com
 4399hhh.com
 4399i.net
-4399inc.com
 4399j.com
-4399mail.com
 4399pk.com
 4399sj.com
 4399swf.com
 4399sy.com
 4399wanju.com
 4399youpai.com
-4399youxi.com
-4399yyy.com
 43img.com
 43kk.cc
 43ns.com
@@ -11604,7 +11598,6 @@ anictdns.store
 anijue.com
 animalchina.com
 animationcritics.com
-animetamashi.com
 animetaste.net
 animetoy.com
 anitama.net
@@ -12010,6 +12003,7 @@ apilyzy.com
 apim.work
 apimkt.net
 apio.ink
+apipost.net
 apiseven.com
 apispace.com
 apistd.com
@@ -12099,7 +12093,6 @@ appdp.com
 appdriver.cn
 appduu.com
 appeasou.com
-appeeres.com
 appetizer.io
 appforebay.cn
 appgame.com
@@ -15145,18 +15138,13 @@ bilibili.cc
 bilibili.cn
 bilibili.co
 bilibili.com
-bilibili.net
 bilibili996.com
 bilibiligame.co
 bilibiligame.net
 bilibilihelper.com
 bilibilijj.com
-bilibilipay.com
 bilicdn1.com
 bilicdn2.com
-bilicdn3.com
-bilicdn4.com
-bilicdn5.com
 bilicomic.com
 bilicomics.com
 bilifuli.com
@@ -15173,7 +15161,6 @@ bilinovel.com
 bilive.com
 bilivideo.cn
 bilivideo.com
-bilivideo.net
 biliyu.com
 bill-jc.com
 billchn.com
@@ -16812,7 +16799,6 @@ btcbbs.com
 btcbl.com
 btcbtc.tech
 btccjt.com
-btcfans.com
 btcha.com
 btclass.net
 btcsearch.com
@@ -20812,6 +20798,7 @@ chncopper.com
 chncpa.org
 chncwds.com
 chndesign.com
+chndoi.org
 chndsnews.com
 chndtb.com
 chnews.net
@@ -24992,7 +24979,6 @@ dandan818.com
 dandang.org
 dandanjiang.tv
 dandanman.com
-dandanplay.com
 dandanplay.net
 dandantang.com
 dandanvoice.com
@@ -29157,7 +29143,6 @@ edu0851.com
 edu201.com
 edu24o1.com
 edu24ol.com
-edu4399.com
 edu510.com
 edu5a.com
 edu63.com
@@ -40714,7 +40699,6 @@ hdsdyyy.com
 hdsky.net
 hdslb.com
 hdslb.net
-hdslb.org
 hdsmgw.com
 hdsq.cc
 hdsx36hb.com
@@ -44969,7 +44953,6 @@ i2eas.com
 i2ya.com
 i360mall.com
 i36mf.cn
-i3839.com
 i3abox.com
 i3cilx.com
 i3done.com
@@ -46227,7 +46210,6 @@ im323.com
 im520.com
 im577.com
 im5i.com
-im9.com
 imaccn.com
 imachina.com
 imaegoo.com
@@ -52633,6 +52615,7 @@ kidbra.xyz
 kiddopal.com
 kidikidi.net
 kidisland.cn
+kidsccshow.com
 kidscoding8.com
 kidsdown.com
 kidseq.net
@@ -58459,7 +58442,6 @@ maijx.com
 maikami.vip
 mail-qq.com
 mail163.com
-mail4399.com
 maila88.com
 mailbusinfo.com
 mailehudong.com
@@ -61979,7 +61961,6 @@ myshxz.com
 mysinablog.com
 mysinamail.com
 mysipo.com
-mysiteres.com
 mysixue.com
 myslowdesign.com
 mysm888.com
@@ -69154,7 +69135,6 @@ qq123.xin
 qq1398.com
 qq163.cc
 qq163.com
-qq163.net
 qq190.com
 qq190.net
 qq387.com
@@ -71135,7 +71115,6 @@ rngtest.com
 rnhy.net
 rnmtb.com
 rnpagoc.site
-ro.com
 ro50.com
 road-group.com
 roadjava.com
@@ -71754,6 +71733,7 @@ rvmcu.com
 rwb66.com
 rwd.hk
 rwezk.com
+rwkv.com
 rwpt.top
 rwtext.com
 rwxqfbj.com
@@ -75981,6 +75961,7 @@ smtvip.com
 smucdn.com
 smudc.com
 smulink.com
+smuszh.com
 smvip8.com
 smwd.tech
 smwenxue.com
@@ -77493,6 +77474,7 @@ sunlife-everbright.com
 sunlight-tech.com
 sunlightbig.com
 sunlogin.com
+sunlogin.net
 sunlons.com
 sunlordinc.com
 sunlune.com
@@ -79231,14 +79213,12 @@ tapdb.net
 tapechat.net
 tapenjoy.com
 tapimg.com
-tapimg.net
 tapotiexie.com
 tappile.com
 tapque.com
 tapsvc.com
 taptap-api.com
 taptap.com
-taptap.io
 taptapcode.com
 taptapdada.com
 taraniss.com
@@ -85388,7 +85368,6 @@ wantuju.com
 wantumusic.com
 wantwords.net
 wanvv.com
-wanwan4399.com
 wanwang.space
 wanwanol.com
 wanweibaike.com
@@ -85773,7 +85752,6 @@ webfoss.com
 webfreecounter.com
 webfuwu.com
 webgame138.com
-webgame163.com
 webgzs.com
 webhek.com
 webhivers.com
@@ -87597,7 +87575,6 @@ wo116114.com
 wo170.com
 wo186.tv
 wo1990.com
-wo1wan.com
 wo685.com
 wo87.com
 wo99.net
@@ -95657,7 +95634,6 @@ ynztzxw.com
 ynzy-tobacco.com
 ynzzwl.com
 yo4399.com
-yo9.com
 yoagoa.com
 yobangbang.com
 yobbom.com
