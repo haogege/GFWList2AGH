@@ -8680,7 +8680,6 @@ globalsign.cloud
 globalsign.es
 globalsign.eu
 globalsign.fr
-globalsign.net
 globalsign.nl
 globalspec.com
 globaltm.org
@@ -15228,6 +15227,7 @@ passion-hd.com
 passion.com
 passiontimes.hk
 passport.net
+passwords.google
 pastahealth.com
 paste.ee
 pastebin.com
