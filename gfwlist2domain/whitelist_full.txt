@@ -5934,6 +5934,7 @@
 50vm.com
 50yc.com
 50yin.com
+50yu.com
 50zera.com
 50zw.co
 50zw.com
@@ -14403,6 +14404,7 @@ akhtm.com
 akhy.com
 aki-game.com
 aki-game.net
+aki-game2.com
 aki-game2.net
 akile.net
 akjianding.com
@@ -23380,6 +23382,7 @@ bytefcdn.com
 bytefcdnrd.com
 bytegecko.com
 bytegeckoext.com
+bytegle.site
 bytegle.tech
 bytegoofy.com
 bytegqpo.net
@@ -28841,6 +28844,7 @@ clarins.com.cn
 claritywallpaper.com
 class.imooc.com
 class01.com
+classa-z.com
 classcms.com
 classic.39health.com
 classinpaas.com
@@ -34675,6 +34679,7 @@ dcb8b9a8.qc.x.bsgslb.cn
 dcbpm.suning.cn
 dcc.shuzilm.cn
 dcc9284d0d01f9c75fb07c78cdbdf279.safeframe.googlesyndication.com
+dcccji.com
 dcci.adsame.com
 dcdapp.com
 dcdkjx.com
@@ -44348,6 +44353,7 @@ fofhc.com
 fogcloud.io
 foguanghui.org
 foioo.com
+foisonad.com
 fojiaonet.com
 fojiaoyongpin.com
 foldur.com
@@ -48389,6 +48395,7 @@ gouwule.com
 gouwuyu.com
 gouyb.mobi
 gouyoukeji.com
+gov-static.tech
 gov.cn
 gov.mo
 govchaozhou.cn
@@ -58205,6 +58212,7 @@ huinongtx.com
 huion.com
 huipulianfood.com
 huiqia.net
+huiqianfan.com
 huiqiangkeji.com
 huiqiyu.com
 huiqk.com
@@ -59281,6 +59289,7 @@ hzncc.com
 hznetwk.com
 hznews.com
 hznk91.com
+hznkg.com
 hznlxs.com
 hznsh.com
 hzntjt.com
@@ -60123,6 +60132,7 @@ ict18.com
 ict361.com
 ict88.com
 ictcsr.org
+ictdns.cloud
 ictdns.fun
 ictdns.store
 ictdns.tech
@@ -89060,6 +89070,7 @@ pksf8.com
 pksfc.com
 pksky.com
 pkslow.com
+pku-cele.com
 pku-hit.com
 pku-lvxin.com
 pku.tech
@@ -91597,6 +91608,7 @@ qh4321.com
 qh5800.com
 qh6bc.com
 qh6ck7oc.v1d.szbdyd.com
+qh9y.com
 qhangyun.com
 qhass.org
 qhbtv.com
@@ -100292,6 +100304,7 @@ shevdc.org
 shewang.net
 shewantea.com
 sheweikeji.com
+shexcloud.com
 shexiang123.51sole.com
 shexiannet.com
 sheyehealth.com
@@ -102257,6 +102270,7 @@ skinme.cc
 skip-links.com
 skiy.net
 skjcsc.com
+skland.com
 skldoor.com
 sklinux.com
 skomart.com
@@ -118888,6 +118902,7 @@ witspring.com
 witt.wang
 wityx.com
 wiwide.com
+wiwide.net
 wiyun.com
 wiz03.com
 wizarcan.com
@@ -134281,6 +134296,7 @@ youngem.com
 youngerfeel.com
 youngfunding.co.uk
 youngjoygame.com
+youngle.tech
 youngor.com
 youni.im
 younuokeji.cloud

@@ -1858,7 +1858,6 @@ api-p.videomarket.jp
 api-secure.recaptcha.net
 api-verify.recaptcha.net
 api.ai
-api.dropboxapi.com
 api.linksalpha.com
 api.nebula-emby.com
 api.news
@@ -19548,6 +19547,7 @@ newsadds.com.au
 newsamerica.com
 newsancai.com
 newsapi.com.au
+newsblur.com
 newscareers.co.uk
 newscdn.com.au
 newschinacomment.org
@@ -19573,7 +19573,6 @@ newsmax.com
 newsmax.in
 newsmaxtv.com
 newsnowfox.com
-newspeak.cc
 newsprestigenetwork.com.au
 newsprinters.co.uk
 newssyndication.com
@@ -20058,7 +20057,6 @@ nos.nl
 notary-submissions-prod.s3-accelerate.amazonaws.com
 notary-submissions-prod.s3.us-west-2.amazonaws.com
 notepad-plus-plus.org
-notify.dropboxapi.com
 notify.ppy.sh
 notion-static.com
 notion.com
@@ -22649,6 +22647,7 @@ qhigh.com
 qi-gong.me
 qianbai.tw
 qiandao.today
+qianglie.com
 qiangwaikan.com
 qiangyou.org
 qidian.ca
@@ -22867,8 +22866,6 @@ rarbgunblock.com
 rarbgunblock.org
 rarbgunblocked.org
 rarbgway.org
-raremovie.cc
-raremovie.net
 rareview.ac.uk
 ras.ac.uk
 rascal.ac.uk
@@ -22894,7 +22891,6 @@ razer.com
 razerofficial.com
 razersupport.com
 razerzone.jp
-razyboard.com
 rb-crisis.com
 rb.com
 rb.gy
@@ -29029,6 +29025,7 @@ voyeurweb.com
 vpl.bibliocommons.com
 vpn.ac
 vpn.cmu.edu
+vpn.net
 vpn.sv.cmu.edu
 vpn4all.com
 vpnaccount.org
@@ -29143,7 +29140,6 @@ waikeung.org
 wailaike.net
 wainao.me
 waisongcha.com
-waittingfor001.weebly.com
 waiwaier.com
 wakcoll.ac.uk
 wakefield.ac.uk
@@ -29572,7 +29568,6 @@ wiki.cnitter.com
 wiki.gamerp.jp
 wiki.jqueryui.com
 wiki.keso.cn
-wiki.moegirl.org
 wiki.oauth.net
 wiki.phonegap.com
 wikia.com
@@ -30328,6 +30323,7 @@ xn--i2ru8q2qg.com
 xn--mts47c3w9b1qr.net
 xn--mtswd61ejxq.com
 xn--ngstr-lra8j.com
+xn--noss43i.com
 xn--oiq.cc
 xn--pearsonenespaol-brb.com
 xn--q41am8x.com
