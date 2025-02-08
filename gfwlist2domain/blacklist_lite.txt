@@ -8819,7 +8819,6 @@ go6.si
 goagent.biz
 goagentplus.com
 gobeatsye.com
-gobet.cc
 gobianywhere.com
 gobuildx.net
 gobuyonlinestore.net
@@ -9134,6 +9133,7 @@ graphql.org
 gravatar.com
 gravitytank.com
 grazie.ai
+greasyfork.org
 great-firewall.com
 great-roc.org
 greatergothammini.com
@@ -11014,6 +11014,7 @@ ipadmini.cm
 ipadmini.lk
 ipadpro.buzz
 ipalter.com
+ipdefenseforum.com
 ipfire.org
 ipfs-gateway.cloud
 ipfs.io
@@ -14644,6 +14645,7 @@ nobelprize.org
 nobodycanstop.us
 nocookie.net
 nodejs.org
+nodeseek.com
 nodesnoop.com
 nodesource.com
 noellabo.jp
@@ -14706,7 +14708,6 @@ npmjs.com
 npmjs.org
 npnt.me
 npr.org
-nps.gov
 npsboost.com
 nptsibinbank.com
 nradio.me
@@ -15310,6 +15311,7 @@ packagist.org
 packer.io
 packetix.net
 pacloudflare.com
+pacom.mil
 pacopacomama.com
 padmanet.com
 paerosnen.club
@@ -18518,7 +18520,6 @@ starwarsgalacticstarcruiser.com
 starwarsjedifallenorder.com
 starwarskids.com
 starwarstheoldrepublic.com
-state.gov
 stateofthemap.com
 stateofthemap.org
 static-cisco.com
