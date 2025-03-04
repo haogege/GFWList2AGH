@@ -832,6 +832,7 @@ adcommerce.tv
 addictedtocoffee.de
 addison-wesley.ch
 addison.ac.uk
+addons.mozilla.org
 addthis.com
 addthiscdn.com
 addthisedge.com
@@ -1772,6 +1773,7 @@ anistreaming.xyz
 ankarazirvesi2018.com
 anm.co.uk
 annamilk.com
+annas-archive.org
 annas-archive.se
 annatam.com
 anniesland-fe.ac.uk
@@ -5234,7 +5236,6 @@ butex.ac.uk
 buugaa.com
 buxtoncollege.ac.uk
 buy-from-shanghai.com
-buy.yahoo.com.tw
 buyaapl.com
 buyaapl.net
 buyaltera.com
@@ -5974,6 +5975,7 @@ cfna.com
 cfos.de
 cfr.org
 cfs.ac.uk
+cfsh99.com
 cftfc.com
 cfwives.com
 cgdepot.org
@@ -6487,6 +6489,7 @@ clinicalnotes.ac.uk
 clinicalskillscentre.ac.uk
 clip16.com
 clipcake.com
+clipconverter.cc
 clipdrop.co
 clipfish.de
 cliphayho.com
@@ -6504,6 +6507,7 @@ clojure.org
 clonoth.com
 closer.ac.uk
 cloud.ac.uk
+cloud.dify.ai
 cloud.mail.ru
 cloudapp.net
 cloudappsecurity.com
@@ -6748,6 +6752,7 @@ coithienthai.com
 coitustube.com
 col-westanglia.ac.uk
 col.ac.uk
+colacloud.net
 colc.ac.uk
 colcc.ac.uk
 colch-inst.ac.uk
@@ -6898,6 +6903,7 @@ comedycentral.com
 comefromchina.com
 comet-study.ac.uk
 cometotheduckside.com
+comfastgpt.run
 comic-mega.me
 comicbox.xyz
 comico.tw
@@ -7605,7 +7611,6 @@ data-service.ac.uk
 data-vocabulary.org
 data.ac.uk
 data.com
-data.flurry.com
 data.gov.tw
 databank.worldbank.org
 database.asahi.com
@@ -7755,6 +7760,7 @@ demdex.net
 dementianet.ac.uk
 dementiaresearchinstitute.ac.uk
 demo.opera-mini.net
+demo.unlock-music.dev
 democracy.earth
 democrats.org
 demonoid.is
@@ -9211,6 +9217,7 @@ elanguages.ac.uk
 elasticbeanstalk.com
 elatt.ac.uk
 elc.ac.uk
+elconfidencial.com
 elder-cove.ac.uk
 elderscrolls.com
 elearning.ac.uk
@@ -10298,6 +10305,7 @@ fast.wistia.com
 fastech.ac.uk
 fastestvpn.com
 fastgit.org
+fastgpt.run
 fastindianporn.com
 fastlane.ci
 fastlane.tools
@@ -10416,6 +10424,7 @@ feedburner.com
 feeder.co
 feedherfuckher.com
 feedly.com
+feedly.comfastgpt.run
 feeds.fileforum.com
 feedx.net
 feelssh.com
@@ -10722,7 +10731,6 @@ fluffychat.im
 fluidfxapp.com
 fluidpreview.com
 fluids.ac.uk
-flurry.com
 flutter.dev
 flutterapp.com
 flyflv.com
@@ -11051,6 +11059,7 @@ free-strip-games.com
 free-wap-tube.com
 free-xxx-porn.org
 free.bg
+free.com.tw
 free.fr
 free00.com
 free18.net
@@ -11206,6 +11215,7 @@ frontrow.com
 froogle.com
 frootvpn.com
 frostbite.com
+froth.zone
 frprn.com
 fruitycams.com
 fsacebok.com
@@ -11290,6 +11300,7 @@ fullsexmovs.com
 fulltaboo.tv
 fullxxxmovies.net
 fulue.com
+funami.tech
 fundaiphone5s.com
 fundfire.com
 fundinginstitutional.com
@@ -11950,6 +11961,7 @@ go-lang.com
 go-lang.net
 go-lang.org
 go-pki.com
+go-to-zlibrary.se
 go.com
 go.dev
 go.jp
@@ -13241,14 +13253,7 @@ hk.geocities.com
 hk.gradconnection.com
 hk.hao123img.com
 hk.jiepang.com
-hk.knowledge.yahoo.com
-hk.myblog.yahoo.com
-hk.news.yahoo.com
-hk.rd.yahoo.com
-hk.search.yahoo.com
-hk.video.news.yahoo.com
 hk.weibo.com
-hk.yahoo.com
 hk01.com
 hk1lib.org
 hk32168.com
@@ -13369,6 +13374,7 @@ home-made-porn-movies.com
 home-made-videos.com
 home-sex-tapes.com
 home-song.com
+home.saxo
 home.sina.com
 home.so-net.net.tw
 homealonemilfs.com
@@ -14402,6 +14408,7 @@ ilhamtohtiinstitute.org
 ilife.eu
 ilife.gr
 ilife.wang
+illawarramercury.com.au
 illianacomputerrecycling.com
 illusion.co.jp
 illusion.jp
@@ -14466,6 +14473,7 @@ imagezilla.net
 imaginationsengine.com
 imaginecup.pl
 imagineecommerce.com
+imago-images.com
 imaypb.com
 imb.org
 imdb.com
@@ -15580,6 +15588,7 @@ jichangtj.com
 jieav.com
 jiehua.cz
 jiepang.com
+jifangge.com
 jigglegifs.com
 jigong1024.com
 jigsy.com
@@ -16666,6 +16675,7 @@ linkjunkies.com
 linksalpha.com
 linkshit.com
 linksintolanguages.ac.uk
+linktr.ee
 linkuswell.com
 linotype.com
 linpie.com
@@ -17239,6 +17249,7 @@ maglue.ac.uk
 magnacartacollege.ac.uk
 mahabodhi.org
 mahajantech.com
+mahjongsoul.com
 mahsc.ac.uk
 maiio.net
 mail-archive.com
@@ -17797,7 +17808,6 @@ melon.com
 melonbooks.co.jp
 melonstube.com
 meltoday.com
-meme.yahoo.com
 meme111.com
 memehk.com
 memes.tw
@@ -18433,6 +18443,7 @@ mitbbs.com
 mitbbsau.com
 mitnaka.com
 mitpressjournals.org
+miuipolska.pl
 mixasiansex.com
 mixero.com
 mixi.jp
@@ -19685,7 +19696,6 @@ news.sina.com.tw
 news.sinchew.com.my
 news.singtao.ca
 news.tvbs.com.tw
-news.yahoo.com
 news.ycombinator.com
 news1.kr
 news100.com.tw
@@ -21199,7 +21209,6 @@ pact.ac.uk
 padmanet.com
 pads.ac.uk
 paerosnen.club
-page.bid.yahoo.com
 page.link
 page.tl
 page2rss.com
@@ -21725,6 +21734,7 @@ physicalexam.info
 physiology.org
 pi-project.ac.uk
 pi-vr.com
+piaotia.com
 piapp.com.tw
 piapro.net
 picacg2022.com
@@ -22690,13 +22700,13 @@ pstorage.space
 psyccareers.com
 pt.im
 ptapjmp.com
-pts.org.tw
 ptt.cc
 ptt.sex
 ptt2.cc
 ptt3.cc
 pttgame.com
 pttvan.org
+ptwxz.com
 ptzwx.com
 pu82.vip
 pub.dev
@@ -22724,7 +22734,6 @@ pugpig-stage.com
 pugpig.com
 pullfolio.com
 pullstring.net
-pulse.yahoo.com
 pulsebrowser.app
 punishbang.com
 punishworld.com
@@ -24221,7 +24230,6 @@ search.aol.com
 search.com
 search.xxx
 search.yahoo.co.jp
-search.yahoo.com
 search25.ac.uk
 searchtruth.com
 searx.me
@@ -24870,6 +24878,7 @@ singfortibet.com
 singlelogin.app
 singlelogin.me
 singlelogin.re
+singlelogin.se
 singlelogin.site
 singpao.com.hk
 singtao.ca
@@ -24915,6 +24924,7 @@ siska.video
 sislovesme.com
 sissc.ac.uk
 sissy-university.com
+sissy.eu.org
 sissy.game
 sissyporncrossdresser.com
 site.com
@@ -25015,6 +25025,7 @@ slg.ac.uk
 slheng.com
 sli-institute.ac.uk
 slickvpn.com
+slides.com
 slides.new
 slideshare.com
 slideshare.net
@@ -26078,6 +26089,8 @@ sunderlandsixthform.ac.uk
 sunglassessale2014.com
 sunitec.ac.uk
 sunmedia.ca
+suno.ai
+suno.com
 sunporno.com
 sunskyforum.com
 sunta.com.tw
@@ -26283,6 +26296,7 @@ sxyprn.com
 sybj91.one
 sybjav.online
 sycolleges.ac.uk
+sydney.bing.com
 sydneytoday.com
 syfec.ac.uk
 syfor.click
@@ -26871,6 +26885,7 @@ thestationbymaker.com
 thesun.co.uk
 thesun.ie
 thesundaytimes.co.uk
+thetatoken.org
 thethothub.com
 thetibetcenter.org
 thetibetconnection.org
@@ -27224,6 +27239,7 @@ tokyotosho.se
 tomatespodres.com
 tombola.ac.uk
 tomonews.net
+tomp3.cc
 tomsguide.com
 tonec.com
 tongil.or.kr
@@ -27611,6 +27627,7 @@ tuidang.net
 tuidang.org
 tuidang.se
 tuitwit.com
+tukaani.org
 tukif.com
 tumblr.com
 tumutanzi.com
@@ -27673,21 +27690,12 @@ tvu.ac.uk
 tvunetworks.com
 tw-blog.com
 tw-npo.org
-tw.answers.yahoo.com
-tw.bid.yahoo.com
 tw.gigacircle.com
 tw.hao123.com
 tw.jiepang.com
-tw.knowledge.yahoo.com
-tw.mall.yahoo.com
-tw.mobi.yahoo.com
-tw.money.yahoo.com
-tw.myblog.yahoo.com
-tw.news.yahoo.com
 tw.tomonews.net
 tw.voa.mobi
 tw.weibo.com
-tw.yahoo.com
 tw01.org
 tw985.com
 twaitter.com
@@ -27846,6 +27854,7 @@ typekit.com
 typekit.net
 typenetwork.com
 typepad.com
+typeset.io
 typesquare.com
 typography.com
 typora.io
@@ -28187,6 +28196,7 @@ unix100.com
 unknownspace.org
 unkoscene.com
 unl.ac.uk
+unlock-music.dev
 unlocklimitlesslearning.com
 unlocktool.net
 unn.ac.uk
@@ -28211,7 +28221,6 @@ uol.ac.uk
 uos.ac.uk
 up01.cc
 upa.ac.uk
-upcoming.yahoo.com
 updates.ac.uk
 updates.tdesktop.com
 updatestar.com
@@ -28609,6 +28618,7 @@ verizonfios.com
 verizonmedia.com
 verizonwireless.com
 vermonttibet.org
+vern.cc
 verpeliculasporno.gratis
 versavpn.com
 versign.net
@@ -28695,7 +28705,6 @@ video.aol.com
 video.ap.org
 video.fdbox.com
 video.foxbusiness.com
-video.yahoo.com
 video01.org
 videoactive.ac.uk
 videobam.com
@@ -29850,6 +29859,7 @@ wikileaks.eu
 wikileaks.lu
 wikileaks.org
 wikileaks.pl
+wikiless.funami.tech
 wikilivres.info
 wikimapia.org
 wikimedia.org
@@ -30154,6 +30164,7 @@ wujieliulan.com
 wukangrui.net
 wulfrun.ac.uk
 wun.ac.uk
+wunderground.com
 wunvb.com
 wuso.me
 wuw.red
@@ -30293,6 +30304,7 @@ www.klip.me
 www.lamenhu.com
 www.lib.virginia.edu
 www.linksalpha.com
+www.lorenzetti.com.br
 www.m-sport.co.uk
 www.monlamit.org
 www.moztw.org
@@ -31582,13 +31594,12 @@ zettai-ero.com
 zeutch.com
 zgsddh.com
 zgzcjj.net
+zh-hans.cfsh99.com
 zh.ecdm.wikia.com
 zh.pokerstrategy.com
 zh.pttpedia.wikia.com
 zh.uncyclopedia.wikia.com
-zh.wikinews.org
 zh.wikiquote.org
-zh.wikisource.org
 zh99.net
 zhaimankan.com
 zhainanjidi.xyz
