@@ -1338,7 +1338,6 @@ alibabacloud.com.sg
 alibabacloud.com.tw
 alicejapan.co.jp
 aliengu.com
-alipaymo.com
 alis-wales.ac.uk
 alive.bar
 aliveipc.com
@@ -3875,7 +3874,6 @@ bili2.cc
 bili888.com
 bili999.com
 bilibili.tv
-biliintl.com
 biliplus.com
 biliworld.com
 bilk.ac.uk
@@ -15165,7 +15163,6 @@ iptv.com.tw
 iptvbin.com
 ipv6.ac.uk
 ipvanish.com
-iq.com
 iqiyiavlive.buzz
 iqq2.cc
 iqq3.cc
