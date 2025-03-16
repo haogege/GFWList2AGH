@@ -785,6 +785,7 @@ acp.ac.uk
 acpica.com
 acpme.ac.uk
 acrobat.com
+acs.org
 acsis.ac.uk
 actalis.com
 actalis.it
@@ -16700,6 +16701,7 @@ linksintolanguages.ac.uk
 linktr.ee
 linkuswell.com
 linotype.com
+linpie.com
 linseysworld.com
 linst.ac.uk
 linux.org
