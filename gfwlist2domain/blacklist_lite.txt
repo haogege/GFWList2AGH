@@ -675,6 +675,7 @@ acmvalidationsaws.com
 acousticbrainz.org
 acpica.com
 acrobat.com
+acs.org
 actalis.com
 actalis.it
 actfortibet.org
@@ -15250,6 +15251,7 @@ openart.ai
 opencollective.com
 opencreate.org
 opendemocracy.net
+opendesktop.org
 opendns.com
 opendroneid.org
 openervpn.in
