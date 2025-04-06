@@ -15377,6 +15377,7 @@ alibaba-group-v6.tengine.alibaba.com.gds.alibabadns.com
 alibaba-group.tengine.alibaba.com
 alibaba-group.tengine.alibaba.com.gds.alibabadns.com
 alibaba-inc.com
+alibaba.cdn.steampipe.steamcontent.com
 alibaba.com
 alibaba.net
 alibabacapital.com
@@ -47953,6 +47954,7 @@ foresl.com
 forestfood.com
 forestmusicnanjing.com
 forestpolice.org
+forevernine.com
 foreveross.com
 foreveryoung.gz01.bdysite.com
 foreweld.com
@@ -52148,6 +52150,8 @@ golenpower.com
 golf.rctxobb.cn
 golfvv.com
 golink.com
+golinkapi.com
+golinkcn.com
 golinksworld.com
 golive-tv.com
 golivetv.tv
@@ -67545,6 +67549,7 @@ imlong-sa-p03-drcn.platform.dbankcloud.cn
 imlong-sa-p04-drcn.platform.dbankcloud.cn
 imlp-static.cdn.bcebos.com
 immeee.com
+immersivetranslate.com
 immf.me
 immfast.com
 immi520.com
@@ -82910,6 +82915,7 @@ luzewangluo.com
 luzexi.com
 luzhouok.com
 lv.dingtalk.com
+lv.queniujq.cn
 lv74.com
 lv96.com
 lvanol.com
@@ -102584,6 +102590,7 @@ queniujd.com
 queniuje.com
 queniujf.com
 queniujg.com
+queniujq.cn
 queniujq.com
 queniujz.com
 queniukk.com
@@ -104929,6 +104936,7 @@ rmb.pingan.com.cn
 rmb.sh
 rmbav.com
 rmbbk.com
+rmbgame.net
 rmbrate.net
 rmburl.com
 rmcaribbean.com
@@ -114507,6 +114515,7 @@ stdout.pub
 stdv6.pacdn.com
 stdwp.com
 ste56.com
+steam302.xyz
 steambang.com
 steambig.com
 steamboxs.com
