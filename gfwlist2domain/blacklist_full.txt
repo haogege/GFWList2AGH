@@ -2625,6 +2625,7 @@ audio-ak-spotify-com.akamaized.net
 audio4-ak-spotify-com.akamaized.net
 audiobeatsau.com
 audiobeatsbydre.com
+audiomack.com
 audiomonsterbeatsonline.com
 audionow.com
 aue.ac.uk
@@ -23815,6 +23816,7 @@ s2stagehance.com
 s3-ap-southeast-1.amazonaws.com
 s3-ap-southeast-2.amazonaws.com
 s3.amazonaws.com
+s3.eu-central-1.amazonaws.com
 s4miniarchive.com
 s81c.com
 s8ds5gfm.xyz
