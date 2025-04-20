@@ -168,6 +168,7 @@
 1e100.net
 1eew.com
 1inch.io
+1infra.net
 1jjdg2.vip
 1lib.cloud
 1lib.cz
@@ -183,8 +184,16 @@
 1mobile.tw
 1monsterbeatsbydreus.com
 1password.ca
+1password.co
 1password.com
+1password.community
+1password.drift.click
 1password.eu
+1password.io
+1passwordservices.com
+1passwordusercontent.ca
+1passwordusercontent.com
+1passwordusercontent.eu
 1point3acres.com
 1pondo.tv
 1pornlist.com
@@ -518,6 +527,7 @@
 89-64.org
 89.64.charter.constitutionalism.solutions
 8964museum.com
+8chan.moe
 8kcosplay.com
 8kpornvids.com
 8muses.com
@@ -5156,6 +5166,7 @@ btt804.com
 btt904.com
 bttzyw.com
 bttzyw.net
+btwrdn.co
 btwrdn.com
 buba.ac.uk
 bubbaporn.com
@@ -5989,6 +6000,7 @@ cex.io
 cf-ipfs.com
 cf.ac.uk
 cfake.com
+cfargotunnel.com
 cfas.ac.uk
 cfblob.com
 cfd-tv.com
@@ -8531,6 +8543,7 @@ drg.ac.uk
 drgan.net
 dri.ac.uk
 dribbble.com
+drift.click
 drindod.ac.uk
 driverxxx.com
 drivevideo.xyz
@@ -16522,6 +16535,7 @@ leisurecafe.ca
 leisurepro.com
 leliao1.com
 lematin.ch
+lemmynsfw.com
 lemoncams.com
 lemonde.fr
 lencr.org
@@ -18895,6 +18909,7 @@ msgamesresearch.com
 msguancha.com
 msha.gov
 mshome.net
+msidentity.com
 msinnovationchallenge.com
 msk.ilnk.info
 msk.kitazawa.me
@@ -21380,6 +21395,7 @@ pase.ac.uk
 pashtovoa.com
 pasionmujeres.com
 paskoocheh.com
+passage.id
 passion-hd.com
 passion.com
 passiontimes.hk
@@ -23815,6 +23831,7 @@ rvc.ac.uk
 rwcmd.ac.uk
 rxhj.net
 ryokoyomiuri.co.jp
+rzr.to
 s-bluemix.net
 s-books.com
 s-cashonmobile.com
@@ -25513,6 +25530,8 @@ sovec.net
 sowers.org.hk
 sowiki.net
 soyinyj.top
+soyjak.party
+soyjak.st
 soylent.com
 soylentnews.org
 sp.cool
@@ -29449,6 +29468,7 @@ vpnpronet.com
 vpnproxymaster.com
 vpnreactor.com
 vpnreviewz.com
+vpnrouter.homes
 vpnsecure.me
 vpnshazam.com
 vpnshieldapp.com
