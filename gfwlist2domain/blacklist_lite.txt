@@ -163,7 +163,6 @@
 1lib.eu
 1lib.limited
 1lib.pl
-1lib.sk
 1lib.to
 1lib.tw
 1mobile.com
@@ -484,7 +483,6 @@
 8664av.com
 881903.com
 888.com
-8888.google
 888poker.com
 88av.one
 88gals.com
@@ -507,6 +505,7 @@
 9001700.com
 908taiwan.org
 90seconds.asia
+91-cg.com
 91av.one
 91avfuli.com
 91beiyong.com
@@ -517,6 +516,7 @@
 91md.me
 91moxiong.com
 91oo.xyz
+91porn.best
 91porn.com
 91pornplus.com
 91porny.com
@@ -1577,6 +1577,7 @@ apple-pay.rs
 apple-pay.wang
 apple-store.net
 apple-store.wang
+apple-studies.com
 apple-usa.net
 apple.ae
 apple.at
@@ -2029,7 +2030,6 @@ audiencenetwork.com
 audiencenetwork.tv
 audiobeatsau.com
 audiobeatsbydre.com
-audiomack.com
 audiomonsterbeatsonline.com
 audionow.com
 auntymaza.com
@@ -5014,7 +5014,6 @@ coin2co.in
 coinalyze.net
 coinbase.com
 coinbene.com
-coincarp.com
 coindesk.com
 coinegg.com
 coingecko.com
@@ -5143,7 +5142,6 @@ come29.xyz
 comedycentral.com
 comefromchina.com
 cometotheduckside.com
-comffvpn.com
 comic-mega.me
 comicbox.xyz
 comico.tw
@@ -6426,6 +6424,7 @@ dwnews.com
 dwnews.net
 dx9527.cc
 dxiong.com
+dxk4h.com
 dxyav.co
 dydx.exchange
 dyfl1.pw
@@ -7491,7 +7490,6 @@ fanhaodang.com
 fanhaodian.com
 fanhaolou.com
 fanhowab.buzz
-fani.com
 fank.ru
 fanleakstoday.com
 fanqiang.network
@@ -7582,12 +7580,13 @@ fasttext.cc
 fasttrackreadysupport.com
 fatbtc.com
 fatstube.com
-favcomic.com
 favebook.com
 favelaporno.com
 favepornmovs.com
 favepornvids.com
 favjapaneseporn.com
+favotter.net
+favstar.fm
 fawanghuihui.org
 faycbok.com
 faydao.com
@@ -7631,6 +7630,8 @@ fburl.com
 fbwat.ch
 fbworkmail.com
 fc2.com
+fc2blog.net
+fc2china.com
 fc2cn.com
 fc2ppv.tv
 fc2web.com
@@ -7642,8 +7643,10 @@ fcfacebook.com
 fcw.xxx
 fcww0.com
 fdacebook.info
+fdbox.com
 fdc64.de
 fdc64.org
+fdc89.jp
 fdiintelligence.com
 fdroid.org
 feacboo.com
@@ -7706,6 +7709,7 @@ fevernet.com
 ff.im
 ffacebook.com
 fffdm.com
+fffff.at
 fffucked.com
 fflick.com
 fflnk.net
@@ -8900,7 +8904,6 @@ go-lang.com
 go-lang.net
 go-lang.org
 go-pki.com
-go-to-library.sk
 go-to-zlibrary.se
 go.com
 go.dev
@@ -9184,6 +9187,7 @@ gotgayporn.com
 gotgeeks.com
 gothdporn.com
 gotporn.com
+gotquestions.org
 gotraffic.net
 gotrusted.com
 gotw.ca
@@ -9320,7 +9324,6 @@ gzm.tv
 gzone-anime.info
 h-cdn.com
 h-china.org
-h-ciyuan.com
 h-doujinshi.xyz
 h-flash.com
 h-moe.com
@@ -9378,6 +9381,7 @@ handjobtube4free.com
 hanime.me
 hanime.tv
 hanime.xxx
+hanime.xyz
 hanime1.me
 hanminzu.org
 hanr-bao.mom
@@ -10353,7 +10357,6 @@ hypnoporn.net
 hypnotube.com
 hypothes.is
 hyprsense.com
-hysteria.network
 hzmn.net
 i-123-hp.com
 i-book.com
@@ -10482,6 +10485,7 @@ idiomconnection.com
 idlcoyote.com
 idnike.com
 idol-sagasukun.com
+idope.se
 idouga.com
 idreamx.com
 ids-apple.com
@@ -11278,7 +11282,6 @@ ita-do.com
 itaboo.info
 itaeromanga.com
 italiabeatsbydrdre.com
-italian-books.sk
 italiatibet.org
 itasoftware.com
 itcanwait.com
@@ -12791,7 +12794,6 @@ mansurfer.com
 manta.com
 mantochichi.com
 manurefetish.com
-manwa.me
 manytoon.com
 manyvids.com
 manyvoices.news
@@ -15288,7 +15290,6 @@ openart.ai
 opencollective.com
 opencreate.org
 opendemocracy.net
-opendesktop.org
 opendns.com
 opendroneid.org
 openervpn.in
@@ -16483,6 +16484,7 @@ pornvideotop.com
 pornvideotube.online
 pornvidhd.club
 pornvisit.com
+pornvr.me
 pornwatchers.com
 pornwebmasters.com
 pornwhite.com
@@ -17686,7 +17688,6 @@ sensorynetworks.com
 sensualgirls.org
 sensualmothers.com
 sensueel.net
-sentry.io
 senzuritv.net
 seqing.one
 seqingwangzhan.pro
@@ -18483,7 +18484,6 @@ sosad.fun
 soso7778.com
 sosreader.com
 sostibet.org
-sotwe.com
 sou-tong.org
 soubory.com
 souka.xyz
@@ -18629,7 +18629,6 @@ ssl-certificate.ch
 ssl.com
 ssl443.org
 sslpaypal.org
-ssm.fun
 sspanel.net
 ssplive.pw
 sspro.ml
@@ -18892,6 +18891,7 @@ stxmosquitoproject.com
 stxmosquitoproject.net
 stxmosquitoproject.org
 sub147.com
+subhd.tv
 sublimedirectory.com
 sublimetext.com
 submarin.online
@@ -19522,7 +19522,6 @@ thongdreams.com
 thotbook.tv
 thothub.ru
 thothub.to
-thotsbay.tv
 thottok.com
 thotvids.com
 threadreaderapp.com
@@ -22761,13 +22760,9 @@ yyii.org
 yyjlymb.xyz
 yzld188.top
 yzzk.com
-z-lib.gd
-z-lib.gs
 z-lib.io
 z-lib.org
-z-lib.ps
 z-library.se
-z-library.sk
 z00.world
 z18r.co
 z18r.com
