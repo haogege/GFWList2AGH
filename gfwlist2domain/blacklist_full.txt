@@ -177,6 +177,7 @@
 1lib.eu
 1lib.limited
 1lib.pl
+1lib.sk
 1lib.to
 1lib.tw
 1mobile.com
@@ -516,6 +517,7 @@
 8664av.com
 881903.com
 888.com
+8888.google
 888poker.com
 88av.one
 88gals.com
@@ -970,6 +972,7 @@ adult-home-videos.com
 adult-list.com
 adult-sex-games.com
 adult-web-site.net
+adult.contents.fc2.com
 adult.friendfinder.com
 adult.toonsearch.net
 adult3dcomics.com
@@ -2639,6 +2642,7 @@ audio-ak-spotify-com.akamaized.net
 audio4-ak-spotify-com.akamaized.net
 audiobeatsau.com
 audiobeatsbydre.com
+audiomack.com
 audiomonsterbeatsonline.com
 audionow.com
 aue.ac.uk
@@ -2653,6 +2657,7 @@ auricularesbeatsbaratosshop.com
 auricularesbeatsmarkt.com
 auroraoss.com
 ausbeatsbydrdre.com
+auth.openai.com
 auth0.com
 authorizeddns.net
 authorizeddns.org
@@ -6779,6 +6784,7 @@ coin2co.in
 coinalyze.net
 coinbase.com
 coinbene.com
+coincarp.com
 coindesk.com
 coinegg.com
 coingecko.com
@@ -6946,6 +6952,7 @@ comedycentral.com
 comefromchina.com
 comet-study.ac.uk
 cometotheduckside.com
+comffvpn.com
 comic-mega.me
 comicbox.xyz
 comico.tw
@@ -8617,7 +8624,6 @@ ducere.ac.uk
 duchy.ac.uk
 duck.co
 duck.com
-duckdns.org
 duckduckco.com
 duckduckco.de
 duckduckgo-owned-server.yahoo.net
@@ -9378,7 +9384,6 @@ emulefans.com
 emuparadise.me
 emwprep.ac.uk
 en-compass.ac.uk
-en.favotter.net
 en.hao123.com
 enablementadobe.com
 enanyang.my
@@ -10256,6 +10261,7 @@ fandom.zendesk.com
 fanfox.net
 fangbinxing.com
 fangeming.com
+fangeming.comffvpn.com
 fangeqiang.com
 fanglizhi.info
 fangmincn.org
@@ -10267,6 +10273,7 @@ fanhaodang.com
 fanhaodian.com
 fanhaolou.com
 fanhowab.buzz
+fani.com
 fank.ru
 fanleakstoday.com
 fanqiang.network
@@ -10358,7 +10365,6 @@ fashionretail.ac.uk
 fashionretailacademy.ac.uk
 fashiontechnologyacademy.ac.uk
 fast.com
-fast.wistia.com
 fastech.ac.uk
 fastestvpn.com
 fastgit.org
@@ -10380,13 +10386,12 @@ fasttrackreadysupport.com
 fatbtc.com
 fatstube.com
 fault-analysis-group.ac.uk
+favcomic.com
 favebook.com
 favelaporno.com
 favepornmovs.com
 favepornvids.com
 favjapaneseporn.com
-favotter.net
-favstar.fm
 fawanghuihui.org
 faycbok.com
 faydao.com
@@ -10432,8 +10437,6 @@ fburl.com
 fbwat.ch
 fbworkmail.com
 fc2.com
-fc2blog.net
-fc2china.com
 fc2cn.com
 fc2ppv.tv
 fc2web.com
@@ -10449,10 +10452,8 @@ fcw.xxx
 fcww0.com
 fda.gov.tw
 fdacebook.info
-fdbox.com
 fdc64.de
 fdc64.org
-fdc89.jp
 fdf.ac.uk
 fdiintelligence.com
 fdroid.org
@@ -10527,7 +10528,6 @@ ff.im
 ffacebook.com
 ffc.ac.uk
 fffdm.com
-fffff.at
 fffucked.com
 fflick.com
 fflm.ac.uk
@@ -12023,6 +12023,7 @@ go-lang.com
 go-lang.net
 go-lang.org
 go-pki.com
+go-to-library.sk
 go-to-zlibrary.se
 go.com
 go.dev
@@ -12423,7 +12424,6 @@ gotgayporn.com
 gotgeeks.com
 gothdporn.com
 gotporn.com
-gotquestions.org
 gotraffic.net
 gotrusted.com
 gotw.ca
@@ -12648,6 +12648,7 @@ gzm.tv
 gzone-anime.info
 h-cdn.com
 h-china.org
+h-ciyuan.com
 h-doujinshi.xyz
 h-flash.com
 h-moe.com
@@ -14046,6 +14047,7 @@ hypnotube.com
 hypothes.is
 hyprsense.com
 hysbys.ac.uk
+hysteria.network
 hzmn.net
 i-123-hp.com
 i-book.com
@@ -14238,7 +14240,6 @@ idiomconnection.com
 idlcoyote.com
 idnike.com
 idol-sagasukun.com
-idope.se
 idouga.com
 idras.ac.uk
 idreamx.com
@@ -15274,6 +15275,7 @@ itaboo.info
 itaeromanga.com
 itaiwan.gov.tw
 italiabeatsbydrdre.com
+italian-books.sk
 italiatibet.org
 itasoftware.com
 itcanwait.com
@@ -17440,6 +17442,7 @@ mantais.ac.uk
 mantochichi.com
 manufacturingedc.ac.uk
 manurefetish.com
+manwa.me
 manytoon.com
 manyvids.com
 manyvoices.news
@@ -19767,6 +19770,7 @@ news.co.uk
 news.com.au
 news.ebc.net.tw
 news.msn.com.tw
+news.mt.co.kr
 news.nationalgeographic.com
 news.net.au
 news.omy.sg
@@ -20898,6 +20902,7 @@ onbeatsbydresale.com
 oncars.in
 one.one
 one.one.one
+one.one.one.one
 one889.app
 oneapi.com
 onedinesfree.com
@@ -21009,6 +21014,7 @@ openart.ai
 opencollective.com
 opencreate.org
 opendemocracy.net
+opendesktop.org
 opendns.com
 opendroneid.org
 opened.ac.uk
@@ -23858,6 +23864,7 @@ s2stagehance.com
 s3-ap-southeast-1.amazonaws.com
 s3-ap-southeast-2.amazonaws.com
 s3.amazonaws.com
+s3.eu-central-1.amazonaws.com
 s4miniarchive.com
 s81c.com
 s8ds5gfm.xyz
@@ -24974,6 +24981,7 @@ sinapse.ac.uk
 sinchew.com.my
 sinchew.my
 sinet.ac.uk
+sing-box.sagernet.org
 sing4.lat
 sing68.com
 singaporepools.com.sg
@@ -25455,6 +25463,7 @@ sostibet.org
 sothebys-institute.ac.uk
 soton.ac.uk
 sots.ac.uk
+sotwe.com
 sou-tong.org
 soubory.com
 souka.xyz
@@ -25709,6 +25718,7 @@ ssl.com
 ssl.webpack.de
 ssl443.org
 sslpaypal.org
+ssm.fun
 ssmh.ac.uk
 sspanel.net
 sspc.ac.uk
@@ -26155,7 +26165,6 @@ stxmosquitoproject.net
 stxmosquitoproject.org
 sub147.com
 subacme.rerouted.org
-subhd.tv
 sublimedirectory.com
 sublimetext.com
 submarin.online
@@ -27087,6 +27096,7 @@ thornbeck.ac.uk
 thotbook.tv
 thothub.ru
 thothub.to
+thotsbay.tv
 thottok.com
 thotvids.com
 threadreaderapp.com
@@ -28519,6 +28529,7 @@ v-has.com
 v-resort.ac.uk
 v.gd
 v2.help
+v2.hysteria.network
 v2ex.com
 v2fly.org
 v2ph.com
@@ -28835,7 +28846,7 @@ video.aol.ca
 video.aol.co.uk
 video.aol.com
 video.ap.org
-video.fdbox.com
+video.fc2.com
 video.foxbusiness.com
 video01.org
 videoactive.ac.uk
@@ -31645,9 +31656,13 @@ yyii.org
 yyjlymb.xyz
 yzld188.top
 yzzk.com
+z-lib.gd
+z-lib.gs
 z-lib.io
 z-lib.org
+z-lib.ps
 z-library.se
+z-library.sk
 z00.world
 z18r.co
 z18r.com
