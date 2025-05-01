@@ -42642,6 +42642,7 @@ djicdn.com
 djigo-hk.djiservice.org
 djigo.djicdn.com
 djigoapi.djiservice.org
+djiits.com
 djing.zhidian3g.cn
 djiops.com
 djiservice.org
@@ -95212,6 +95213,7 @@ moreck.com
 mored.com
 moredian.com
 morefood.com
+morefreegame.com
 morefun-philippines.com
 moregy.com
 moreless.io
@@ -95673,7 +95675,6 @@ mshow.fang.com
 mshw.net
 mshxw.com
 msi.autohome.com.cn
-msi.com
 msite.baidu.com
 msits.com
 msjdpay.jd.com
