@@ -163,7 +163,6 @@
 1lib.eu
 1lib.limited
 1lib.pl
-1lib.sk
 1lib.to
 1lib.tw
 1mobile.com
@@ -484,7 +483,6 @@
 8664av.com
 881903.com
 888.com
-8888.google
 888poker.com
 88av.one
 88gals.com
@@ -690,7 +688,6 @@ acmvalidationsaws.com
 acousticbrainz.org
 acpica.com
 acrobat.com
-acs.org
 actalis.com
 actalis.it
 actfortibet.org
@@ -2032,7 +2029,6 @@ audiencenetwork.com
 audiencenetwork.tv
 audiobeatsau.com
 audiobeatsbydre.com
-audiomack.com
 audiomonsterbeatsonline.com
 audionow.com
 auntymaza.com
@@ -2429,7 +2425,6 @@ baicaonetwork.com
 baijie.org
 bailandaily.com
 baixing.me
-baizhi.org
 bakgeekhome.tk
 ballbustingtube.com
 baltimorebmw.com
@@ -5018,7 +5013,6 @@ coin2co.in
 coinalyze.net
 coinbase.com
 coinbene.com
-coincarp.com
 coindesk.com
 coinegg.com
 coingecko.com
@@ -5147,7 +5141,6 @@ come29.xyz
 comedycentral.com
 comefromchina.com
 cometotheduckside.com
-comffvpn.com
 comic-mega.me
 comicbox.xyz
 comico.tw
@@ -7495,7 +7488,6 @@ fanhaodang.com
 fanhaodian.com
 fanhaolou.com
 fanhowab.buzz
-fani.com
 fank.ru
 fanleakstoday.com
 fanqiang.network
@@ -7586,12 +7578,13 @@ fasttext.cc
 fasttrackreadysupport.com
 fatbtc.com
 fatstube.com
-favcomic.com
 favebook.com
 favelaporno.com
 favepornmovs.com
 favepornvids.com
 favjapaneseporn.com
+favotter.net
+favstar.fm
 fawanghuihui.org
 faycbok.com
 faydao.com
@@ -7635,6 +7628,8 @@ fburl.com
 fbwat.ch
 fbworkmail.com
 fc2.com
+fc2blog.net
+fc2china.com
 fc2cn.com
 fc2ppv.tv
 fc2web.com
@@ -7646,8 +7641,10 @@ fcfacebook.com
 fcw.xxx
 fcww0.com
 fdacebook.info
+fdbox.com
 fdc64.de
 fdc64.org
+fdc89.jp
 fdiintelligence.com
 fdroid.org
 feacboo.com
@@ -7710,6 +7707,7 @@ fevernet.com
 ff.im
 ffacebook.com
 fffdm.com
+fffff.at
 fffucked.com
 fflick.com
 fflnk.net
@@ -8904,7 +8902,6 @@ go-lang.com
 go-lang.net
 go-lang.org
 go-pki.com
-go-to-library.sk
 go-to-zlibrary.se
 go.com
 go.dev
@@ -9188,6 +9185,7 @@ gotgayporn.com
 gotgeeks.com
 gothdporn.com
 gotporn.com
+gotquestions.org
 gotraffic.net
 gotrusted.com
 gotw.ca
@@ -9324,7 +9322,6 @@ gzm.tv
 gzone-anime.info
 h-cdn.com
 h-china.org
-h-ciyuan.com
 h-doujinshi.xyz
 h-flash.com
 h-moe.com
@@ -10358,7 +10355,6 @@ hypnoporn.net
 hypnotube.com
 hypothes.is
 hyprsense.com
-hysteria.network
 hzmn.net
 i-123-hp.com
 i-book.com
@@ -10487,6 +10483,7 @@ idiomconnection.com
 idlcoyote.com
 idnike.com
 idol-sagasukun.com
+idope.se
 idouga.com
 idreamx.com
 ids-apple.com
@@ -11283,7 +11280,6 @@ ita-do.com
 itaboo.info
 itaeromanga.com
 italiabeatsbydrdre.com
-italian-books.sk
 italiatibet.org
 itasoftware.com
 itcanwait.com
@@ -12087,7 +12083,6 @@ kukuku.uk
 kum.com
 kumo.com
 kun.im
-kun66.xyz
 kundun1069.com
 kurashsultan.com
 kurtmunger.com
@@ -12796,7 +12791,6 @@ mansurfer.com
 manta.com
 mantochichi.com
 manurefetish.com
-manwa.me
 manytoon.com
 manyvids.com
 manyvoices.news
@@ -14806,6 +14800,7 @@ nobelprize.org
 nobodycanstop.us
 nocookie.net
 nodejs.org
+nodeloc.com
 nodeseek.com
 nodesnoop.com
 nodesource.com
@@ -15294,7 +15289,6 @@ openart.ai
 opencollective.com
 opencreate.org
 opendemocracy.net
-opendesktop.org
 opendns.com
 opendroneid.org
 openervpn.in
@@ -16831,7 +16825,6 @@ qattdh2.cc
 qattdh6.top
 qbittorrent.org
 qbmengmei6.mom
-qcmod.xyz
 qctconnect.com
 qdiehzz7.me
 qhigh.com
@@ -17260,7 +17253,6 @@ ridepenguin.com
 rightbtc.com
 rightster.com
 rigpa.org
-rigums.xyz
 riku.me
 rileyguide.com
 riot-games.com
@@ -17924,7 +17916,6 @@ sgp1.fun
 sgspe.de
 sgspt.buzz
 sh-xuxingda.com
-sh83.xyz
 shadbase.com
 shadeyouvpn.com
 shadow.ma
@@ -18145,6 +18136,7 @@ simpcity.su
 simplecd.me
 simpleproductivityblog.com
 simpleswap.io
+simplex.chat
 simplify.com
 simplifycommerce.com
 simply-hentai.com
@@ -18490,7 +18482,6 @@ sosad.fun
 soso7778.com
 sosreader.com
 sostibet.org
-sotwe.com
 sou-tong.org
 soubory.com
 souka.xyz
@@ -18636,7 +18627,6 @@ ssl-certificate.ch
 ssl.com
 ssl443.org
 sslpaypal.org
-ssm.fun
 sspanel.net
 ssplive.pw
 sspro.ml
@@ -18899,6 +18889,7 @@ stxmosquitoproject.com
 stxmosquitoproject.net
 stxmosquitoproject.org
 sub147.com
+subhd.tv
 sublimedirectory.com
 sublimetext.com
 submarin.online
@@ -19529,7 +19520,6 @@ thongdreams.com
 thotbook.tv
 thothub.ru
 thothub.to
-thotsbay.tv
 thottok.com
 thotvids.com
 threadreaderapp.com
@@ -21971,7 +21961,6 @@ xiaoyaoge.xyz
 xiaxiaoqiang.net
 xihua.es
 xii.jp
-xin21.xyz
 xinaia-av.buzz
 xinbao.de
 xindelu.com
@@ -22769,13 +22758,9 @@ yyii.org
 yyjlymb.xyz
 yzld188.top
 yzzk.com
-z-lib.gd
-z-lib.gs
 z-lib.io
 z-lib.org
-z-lib.ps
 z-library.se
-z-library.sk
 z00.world
 z18r.co
 z18r.com
@@ -22892,6 +22877,7 @@ zlibcdn2.com
 zmw.cn
 zndsk.com
 zodgame.us
+zodgame.xyz
 zoho.com
 zoho.eu
 zoho.in
