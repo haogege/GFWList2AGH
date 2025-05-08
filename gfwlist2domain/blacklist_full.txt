@@ -18187,6 +18187,7 @@ minbrowser.org
 mindgeek.com
 mindmeld.com
 mindrolling.org
+minecraft-services.net
 minecraft.net
 minecraft.wiki
 minecraftservices.com
@@ -25227,6 +25228,7 @@ sneakerpage.net
 sneakerskick.com
 sneakme.net
 sni1dcb6gl.wpc.edgecastcdn.net
+snjulebu.com
 snk-corp.co.jp
 snkplaymore.info
 snow.me
@@ -25302,6 +25304,7 @@ softwarebychuck.com
 softwaredownload.gitbooks.io
 softwareoutlook.ac.uk
 sogclub.com
+sogoo.org
 sogrady.me
 soh.tw
 sohcradio.com
@@ -28395,6 +28398,7 @@ urchin.com
 urduvoa.com
 urhtbooks.com
 url.tw
+urlborg.com
 urlgalleries.net
 urlparser.com
 urukawa.com
