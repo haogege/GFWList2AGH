@@ -5299,6 +5299,7 @@ cp44.net
 cpan.org
 cpedge.com
 cpj.org
+cpu-monkey.com
 cpz.to
 cq99.us
 cqcorea.com
@@ -10369,7 +10370,6 @@ huyandex.com
 hwadzan.tw
 hwcdn.net
 hwgo.com
-hwinfo.com
 hwslabs.com
 hxcsxs.pro
 hxdoll.com
