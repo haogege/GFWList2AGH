@@ -20482,7 +20482,6 @@ nocn.ac.uk
 nocookie.net
 nocs.ac.uk
 nodejs.org
-nodeloc.com
 nodes.ac.uk
 nodeseek.com
 nodesnoop.com
@@ -28740,6 +28739,7 @@ uol.ac.uk
 uos.ac.uk
 up01.cc
 upa.ac.uk
+upbit.com
 updates.ac.uk
 updates.tdesktop.com
 updatestar.com
@@ -30848,7 +30848,6 @@ www.monlamit.org
 www.moztw.org
 www.msn.com
 www.nbc.com
-www.nodeloc.com
 www.owind.com
 www.oxid.it
 www.powerpointninja.com

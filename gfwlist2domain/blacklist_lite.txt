@@ -15015,7 +15015,6 @@ nobelprize.org
 nobodycanstop.us
 nocookie.net
 nodejs.org
-nodeloc.com
 nodeseek.com
 nodesnoop.com
 nodesource.com
@@ -20650,6 +20649,7 @@ uo.com
 uocn.org
 uoherald.com
 up01.cc
+upbit.com
 updatestar.com
 updatetube.com
 upenn.edu
