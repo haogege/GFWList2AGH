@@ -14527,6 +14527,7 @@ navisworks.com
 navisworks.net
 navy.mil
 naweeklytimes.com
+naydex.net
 nbabot.net
 nbc.co
 nbc.com
@@ -18602,6 +18603,7 @@ sneakerpage.net
 sneakerskick.com
 sneakme.net
 snjulebu.com
+snk-corp.info
 snkplaymore.info
 snow-plus.net
 snow.me
@@ -20317,6 +20319,8 @@ tubevintageporn.com
 tubewolf.com
 tubexclips.com
 tubi.io
+tubi.tv
+tubi.video
 tubinge.com
 tubitv.com
 tubsexer.com
@@ -22772,6 +22776,7 @@ yandex-bank.net
 yandex.aero
 yandex.az
 yandex.by
+yandex.cloud
 yandex.com
 yandex.de
 yandex.ee
