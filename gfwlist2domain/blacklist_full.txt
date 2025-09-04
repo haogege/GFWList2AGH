@@ -5228,6 +5228,8 @@ bsw.co.jp
 bsw.jp
 bsxm1213.pro
 bt2mag.com
+bt4g.org
+bt4gprx.com
 btaia.com
 btas.ac.uk
 btbit.net
@@ -12708,7 +12710,6 @@ googlephotos.com
 googleplay.com
 googleplus.com
 googlescholar.com
-googlesile.com
 googlesource.com
 googlestore.com
 googlesverige.com
