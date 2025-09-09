@@ -3791,7 +3791,9 @@ bookdepository.com
 bookepub.com
 bookfi.net
 booking.com
+booklive.jp
 bookmark.xxx
+bookmeter.com
 bookmybridgestonetyre.com
 bookonsky.net
 booksc.eu
@@ -3803,6 +3805,7 @@ bookshome.net
 bookshome.world
 booksinprint.com
 bookstagram.com
+bookwalker.jp
 booloo.com
 boomba.club
 boombeach.com
@@ -15196,6 +15199,7 @@ nordvpn.com
 noroutetohost.net
 norsk.mobi
 nos.nl
+note.com
 notepad-plus-plus.org
 notion-static.com
 notion.com
@@ -23027,6 +23031,7 @@ yo1health.com
 yobit.net
 yobt.com
 yobt.tv
+yodobashi.com
 yogalayout.com
 yogichen.org
 yogify.com
