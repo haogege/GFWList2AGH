@@ -20030,7 +20030,6 @@ ndtc.ac.uk
 ndtv.com
 ne-worcs.ac.uk
 ne-worcscol.ac.uk
-ne.jp
 neab.ac.uk
 neaco.ac.uk
 near.by
@@ -28641,6 +28640,7 @@ txcloud.net
 txdirectv.com
 txqzz34r.com
 txvia.com
+txvlog.com
 txxx.com
 txxx1.com
 tycool.com
