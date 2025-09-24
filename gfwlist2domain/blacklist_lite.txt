@@ -5467,6 +5467,7 @@ ctexcel.ca
 ctexcel.us
 ctfassets.net
 ctfriend.net
+ctinets.com
 ctinews.com
 ctotires.com
 ctowc.org
@@ -11383,6 +11384,7 @@ internetfreedom.org
 internetofeverything.com
 internetpopculture.com
 interracial-sites.com
+interseclab.org
 intescort.com
 intgram.com
 inthenameofconfuciusmovie.com
@@ -15460,6 +15462,7 @@ ocry.com
 ocsp-certum.com
 ocsp-responder.com
 october-review.org
+octocaptcha.com
 ocul.us
 oculus-china.com
 oculus.com
@@ -15889,6 +15892,7 @@ pali.ltd
 paljorpublications.com
 palmislife.com
 paltalk.com
+palworldgame.com
 panasonic.com
 panasonic.jp
 pancakeswap.finance
