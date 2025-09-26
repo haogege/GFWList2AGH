@@ -22067,6 +22067,7 @@ wikimediacloud.org
 wikimediafoundation.org
 wikinews.org
 wikipedia-on-ipfs.org
+wikipedia.com
 wikipedia.org
 wikiporn.tv
 wikiquote.org
