@@ -622,6 +622,7 @@ abigass.com
 ablmm.com
 ablwang.com
 aboluowang.com
+about.google
 about.me
 aboutamazon.com
 aboutamazon.de
@@ -908,6 +909,7 @@ agemys.org
 agendaweek.com
 agilebits.com
 agnesb.fr
+agnss.goog
 agoogleaday.com
 agrd.eu
 agrd.io
@@ -933,6 +935,7 @@ ahvideosexe.com
 ahxxx.club
 ai-kan.net
 ai-wen.net
+ai.google
 ai.ls
 ai7995.site
 ai91porn.cc
@@ -1947,6 +1950,7 @@ asianboygay.com
 asiancamgirllive.com
 asiancamly.com
 asianews.it
+asianfanfics.com
 asianfreeporn.net
 asiangfvideos.com
 asiangirlsnextdoor.com
@@ -3040,6 +3044,10 @@ beyondfirewall.com
 bffshd.com
 bfnn.org
 bfsh.hk
+bg-call-donation-alpha.goog
+bg-call-donation-canary.goog
+bg-call-donation-dev.goog
+bg-call-donation.goog
 bgm.tv
 bgme.me
 bgov.com
@@ -3280,6 +3288,7 @@ blockless.com
 blocktempo.com
 blog.br
 blog.de
+blog.google
 blog.jp
 blogblog.com
 blogcatalog.com
@@ -4064,6 +4073,7 @@ businessinsider.mx
 businessinsider.my
 businessinsider.nl
 businessinsider.sg
+businessmessages.google
 businesswebwise.com
 businessweek.com
 businessweekmag.com
@@ -4769,6 +4779,7 @@ chrlawyers.hk
 chrome.com
 chromebook.com
 chromecast.com
+chromeenterprise.google
 chromeexperiments.com
 chromeos.dev
 chromercise.com
@@ -4979,6 +4990,7 @@ cloudlive.com
 cloudlock.com
 cloudn.me
 cloudokyo.cloud
+cloudpartnerservices.goog
 cloudproxy.app
 cloudrobotics.com
 cloudvolumes.com
@@ -5167,6 +5179,7 @@ com.fr
 com.ge
 com.gh
 com.gi
+com.google
 com.gr
 com.gt
 com.gy
@@ -5758,6 +5771,7 @@ deepfreeze.net
 deepfreeze.tech
 deepl.com
 deepmind.com
+deepmind.google
 deezer.com
 definebabe.com
 definefetish.com
@@ -5893,6 +5907,7 @@ descargasgay.com
 desertbmw.com
 design-ledrev.com
 design-ledrevolution.com
+design.google
 designeriphonescases.com
 designledrevolution.com
 designsformovement.com
@@ -6199,6 +6214,7 @@ disqus.com
 disquscdn.com
 disqusservice.com
 dit-inc.us
+diversity.google
 diyarbakirescort.com
 diyin.org
 diyuser.buzz
@@ -6249,6 +6265,7 @@ dnaspaces.io
 dndbeyond.com
 dns-dns.com
 dns-stuff.com
+dns.google
 dns.sb
 dns04.com
 dns05.com
@@ -6309,6 +6326,7 @@ dollarphotoclub.com
 dollarphotosclub.com
 dolphiners.com
 domain.glass
+domains.google
 domywife.com
 donatecarsoh.org
 donga.com
@@ -7070,6 +7088,9 @@ entensity.net
 entermap.com
 entermediadb.net
 entermediadb.org
+enterprisedemo-google.com
+enterprisedemogoogle.org
+enterprisemarketingportal.google
 enterprisepaging.com
 enterprisessl.com
 entnt.com
@@ -7658,6 +7679,7 @@ faluninfo.net
 falunpilipinas.net
 falunworld.net
 fameregistry.com
+families.google
 family-sex.me
 family-simulator.io
 familyds.com
@@ -9500,6 +9522,7 @@ grotty-monday.com
 ground.news
 groupfun.com
 groups.com
+grow.google
 grss-ieee.org
 grupobmw.com
 gs-discuss.com
@@ -10487,7 +10510,6 @@ hua-yue.net
 huabansp.com
 huabansp7.club
 huaglad.com
-huaibinmall.com
 huanghuagang.org
 huangse.love
 huangyiyu.com
@@ -11363,6 +11385,7 @@ invidio.us
 invity.io
 inxian.com
 inxporn.com
+io.google
 ioe.com
 ioffergift.com
 ioinformatics.org
@@ -12406,6 +12429,7 @@ l-msedge.net
 la-forum.org
 la-mama.ru
 labiennale.org
+labs.google
 lacomics.org
 ladbrokes.com
 ladies.com
@@ -15648,6 +15672,7 @@ openmaps.org
 openreality.com
 openrouter.ai
 opensea.io
+opensource.google
 opensource.guide
 opensourceinsight.dev
 opensourceinsights.dev
@@ -17245,6 +17270,7 @@ qualcommventures.com
 qualphone.com
 quanben.io
 quannengshen.org
+quantumai.google
 quatrowireless.com
 quay.io
 questvisual.com
@@ -17547,6 +17573,7 @@ regex101.com
 regiongold.com
 registerhulu.com
 registeridm.com
+registry.google
 reimu.net
 reiporno.com
 relateiq.com
@@ -17571,6 +17598,7 @@ repsils.no
 repsneakermall.com
 repswing.com
 resao.com
+research.google
 researchandcare.org
 researchgate.net
 researchintel.com
@@ -17818,6 +17846,7 @@ safebooru.org
 safechat.com
 safeguarddefenders.com
 safervpn.com
+safety.google
 saffrontech.com
 sagepub.com
 sagernet.org
@@ -18323,6 +18352,7 @@ shaparak.ir
 shapelcounset.xyz
 shapeservices.com
 share-videos.se
+share.google
 sharebee.com
 sharecool.org
 sharepoint.com
@@ -18523,6 +18553,7 @@ simplifycommerce.com
 simply-hentai.com
 simplyipod.com
 simsquad.com
+simtransfer.goog
 simulationsquad.com
 sinabank.ir
 sinchew.my
@@ -18600,6 +18631,7 @@ sketchfab.com
 skillshare.com
 skimtube.com
 skinstrip.net
+skintone.google
 skk.moe
 skokka.com
 sksarab.top
@@ -19007,6 +19039,7 @@ squirrelgroup.net
 squirrelvpn.com
 sqyzh-dh.sbs
 sr.ht
+sre.google
 srebrenica360.com
 srocket.us
 srtcdn.net
@@ -19216,6 +19249,7 @@ stoptibetcrisis.net
 storagenewsletter.com
 store-bridgestonesports.com
 storesense.com
+stories.google
 storiesonline.net
 storify.com
 storj.io
@@ -19258,7 +19292,6 @@ strepsils.ru
 strepsils.si
 strepsils.us
 strepsilsarabia.com
-striek.com
 strikinglycdn.com
 strip-poker.xxx
 stripcamfun.com
@@ -19473,6 +19506,7 @@ synapse.org
 synaptic.net
 syncback.com
 syncbak.com
+syndicatedsearch.goog
 synergyse.com
 synology.com
 synology.me
@@ -20502,6 +20536,7 @@ tuvpn.com
 tuzaijidi.com
 tv.br
 tv.com
+tv.google
 tvappstore.net
 tvb.com
 tvbanywhere.com
@@ -23277,6 +23312,7 @@ zbporn.com
 zctb.buzz
 zdassets.com
 zdnet.com
+zdns.google
 zdusercontent.com
 zee.com
 zee5.com
