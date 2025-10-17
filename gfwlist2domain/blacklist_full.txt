@@ -6012,7 +6012,6 @@ cdnpure.com
 cdp1989.org
 cdp1998.org
 cdp2006.org
-cdpa.url.tw
 cdpeu.org
 cdpuk.co.uk
 cdpusa.org
@@ -29075,7 +29074,6 @@ urbansurvival.com
 urchin.com
 urduvoa.com
 urhtbooks.com
-url.tw
 urlborg.com
 urlgalleries.net
 urlparser.com
@@ -30437,6 +30435,7 @@ webra.ru
 webrtc.org
 webrush.net
 webs-tv.net
+websdr.org
 website.informer.com
 website.new
 websitepulse.com
@@ -31446,6 +31445,7 @@ xn--r8jwklh769h2mc880dk1o431a.com
 xn--r8jwklh769hk43amcfoyl3z3a.com
 xn--sjqr38j.com
 xn--tkry91n.com
+xn--u2u927b.com
 xn--ubt498knmf.com
 xn--uis17aj9kmuf.com
 xn--urs05q.jp
