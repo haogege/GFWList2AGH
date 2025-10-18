@@ -17474,6 +17474,7 @@ apd-vodp2plogin.teg.tencent-cloud.net
 apd-vodp2pnat.teg.tencent-cloud.net
 apd-vodp2preport.teg.tencent-cloud.net
 apdcdn.com
+apdcdn.net
 apdnews.com
 ape8.com
 apearth.com
@@ -21847,6 +21848,7 @@ bdmjs.xywy.com
 bdmm.xywy.com
 bdmov.a.yximgs.com
 bdmozon.com
+bdmyandex.com
 bdns-api-test.net
 bdns-boe.com
 bdns-boe.net
@@ -26142,6 +26144,7 @@ bytetstatic.com
 bytetstatic.net
 byteug.com
 bytevalk.com
+bytevcloudapi.com
 bytevcloudvod.com
 bytevdn-boe.com
 bytevdn.com
@@ -35842,6 +35845,7 @@ coyis.com
 coyotebio-lab.com
 coyuk.com
 coyuns.net
+coze.site
 cozonenet.com
 cozyee.com
 cp-keji.com
@@ -42168,6 +42172,7 @@ djgy.com
 djhxn.com
 dji-official-fe.djicdn.com
 dji.com
+dji.ink
 dji.net
 djiang.net
 djiavip.com
@@ -66531,6 +66536,7 @@ hspharm.com
 hspm.net
 hspress.net
 hspstudio.club
+hsqh.net
 hsqhfunds.com
 hsqhospital.com
 hsqjfw.com
@@ -69789,7 +69795,9 @@ ibcde.com
 ibcet.org
 ibczy.com
 ibdtjqn.cn
+ibdxiguaimg.com
 ibdxigualive.com
+ibdxiguastatic.com
 ibdxiguavod.com
 ibeidiao.com
 ibeifeng.com
@@ -90604,6 +90612,7 @@ maotuying.com
 maowotao.com
 maowow.com
 maoxia007.com
+maoxiangai.com
 maoxinhang.com
 maoxinquan.net
 maoxiongtv.com
@@ -91157,6 +91166,7 @@ mcard.jd.com
 mcard.jd.com.gslb.qianxun.com
 mcarding.com
 mcaredown.3g.qq.com
+mcbaas.work
 mcbang.com
 mcbao.com
 mcbbs.co
@@ -91175,6 +91185,7 @@ mccshhospital.com
 mcd.cc
 mcd.cn
 mcdchina.net
+mcdemo.show
 mcdn.yangkeduo.com
 mcdpro.cbit.com.cn
 mcdsusan.com
@@ -95544,6 +95555,7 @@ myp17.com
 myp2pch.net
 mypaas.com
 mypal.wang
+myparallelstory.com
 mypcrun.com
 mypethome.com
 mypharma.com
@@ -103832,6 +103844,7 @@ pixcakes.com
 pixclub.net
 pixe44lrifted.com
 pixelauth.com
+pixeldance.com
 pixelgame.net
 pixepf.sbs
 pixhey.com
@@ -126502,6 +126515,7 @@ tctpxwebank.com
 tctran.com
 tctz.com
 tcvywoh.com
+tcwqqdy.guru
 tcwt.net
 tcxmt.com
 tcxw.cc
@@ -129768,6 +129782,7 @@ tradow.com
 tradplus.cn
 tradplus.com
 tradplusad.com
+trae.guru
 traffic-ivs.amap.com
 traffic.uusee.com
 trafficjam.cn
