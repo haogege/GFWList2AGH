@@ -33808,6 +33808,7 @@ cn.bing.net
 cn.club.vmall.com
 cn.download.nvidia.com
 cn.epubee.com
+cn.eset.com
 cn.hao123.n.shifen.com
 cn.huijucn.com
 cn.i.gtimg.cn
@@ -80929,7 +80930,6 @@ kashengauto.com
 kashi.anjuke.com
 kasitesoft.com
 kaslyju.com
-kaspersky.com
 kasscloud.com
 kasto.shop.258.com
 kataliya.net
