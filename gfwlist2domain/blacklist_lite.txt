@@ -1238,12 +1238,6 @@ alpinelinux.org
 alt.com
 altera.com
 alteraforum.com
-alteraforums.com
-alteraforums.net
-alterauserforum.com
-alterauserforum.net
-alterauserforums.com
-alterauserforums.net
 alternate-tools.com
 alternativeto.net
 altmetric.com
@@ -4991,6 +4985,7 @@ cloudflareok.com
 cloudflarepartners.com
 cloudflareportal.com
 cloudflarepreview.com
+cloudflareregistrar.com
 cloudflareresolve.com
 cloudflaressl.com
 cloudflarestatus.com
@@ -5275,6 +5270,7 @@ comicsporno.es
 comicunivers.com
 comicuniverse.org
 comixzilla.com
+comm-verse.com
 commandandconquer.com
 commandarms.com
 comments.app
@@ -5791,6 +5787,7 @@ deepfreeze.com
 deepfreeze.eu
 deepfreeze.net
 deepfreeze.tech
+deepin.io
 deepl.com
 deepmind.com
 deepmind.google
@@ -6279,6 +6276,7 @@ dmc.nico
 dmcdn.net
 dmed.technology
 dmhy.org
+dml-lang.org
 dmm-extension.com
 dmm.com
 dmmapis.com
@@ -6922,6 +6920,7 @@ ebookee.com
 ebookforipad.com
 ebsco.com
 ebscohost.com
+ebuyer.com
 ebuyheadphones.com
 ecchinohentai.ru
 ecgapp.net
@@ -8435,6 +8434,11 @@ fr-beatsbydrestore.com
 fracebook.com
 fragment.com
 fragrancebay.com
+framer.com
+framer.website
+framercanvas.com
+framerstatic.com
+framerusercontent.com
 francecasquebeatssolde.com
 francemail.com
 frank2019.me
@@ -9525,6 +9529,7 @@ grannylister.com
 grannylovesbbc.com
 grannylovesyoungcock.com
 grannytube.net
+granulate.io
 graph.org
 graphengine.io
 graphql.org
@@ -9651,6 +9656,7 @@ hackerfacebook.com
 hackerguardian.com
 hackfacebook.com
 hackfacebookid.com
+hackharassment.com
 hacklang.org
 hackmd.io
 hacksear.ch
@@ -11176,6 +11182,7 @@ insider.com
 insiderdevtour.com
 insiderintelligence.com
 insidevoa.com
+insight.tech
 instaadder.com
 instabang.com
 instachecker.com
@@ -11261,11 +11268,13 @@ intel.cg
 intel.ch
 intel.cl
 intel.cm
+intel.co
 intel.com
 intel.cr
 intel.cu
 intel.cz
 intel.de
+intel.dev
 intel.dk
 intel.dz
 intel.ec
@@ -11278,6 +11287,7 @@ intel.fr
 intel.ga
 intel.gd
 intel.ge
+intel.gg
 intel.gl
 intel.gm
 intel.gr
@@ -11288,6 +11298,7 @@ intel.hk
 intel.hn
 intel.ht
 intel.hu
+intel.id
 intel.ie
 intel.in
 intel.io
@@ -11381,10 +11392,11 @@ intellinuxgraphics.com
 intellinuxgraphics.net
 intellinuxwireless.net
 intelnervana.com
-intelnet.component
 intelplay.com
 intelquark.com
 intelrealsense.com
+intelrealsense.net
+intelreimbursement.com
 intelrxt.com
 intelsalestraining.com
 intelsecurity.com
@@ -13092,6 +13104,7 @@ mahajantech.com
 mahjongsoul.com
 maiio.net
 mail-archive.com
+mail.com
 mail.ru
 mailchimp.com
 maildns.xyz
@@ -13428,6 +13441,7 @@ meansys.com
 mearki.com
 meawallet.app
 mebank.ir
+meccontroller.com
 media-amazon.com
 media-imdb.com
 mediachinese.com
@@ -14244,6 +14258,7 @@ movenetworks.com
 movetv.com
 movidius.com
 movidius.net
+movidius.org
 movie-erog.com
 movie1000.xyz
 moviefap.com
@@ -15625,6 +15640,7 @@ oncars.in
 one.one
 one889.app
 oneapi.com
+oneapi.io
 onedinesfree.com
 onedrive.co
 onedrive.com
@@ -15714,6 +15730,7 @@ openamt.com
 openapiplatform.com
 openapiservice.com
 openart.ai
+opencas.io
 opencollective.com
 opencreate.org
 opendemocracy.net
@@ -15748,6 +15765,7 @@ opentech.fund
 opentgc.com
 openthread.io
 opentranslatorstothings.org
+openvino.ai
 openvinotoolkit.org
 openvpn.net
 openvpn.org
@@ -16004,6 +16022,7 @@ passion-hd.com
 passion.com
 passiontimes.hk
 passport.net
+passwordday.org
 pastahealth.com
 paste.ee
 pastebin.com
@@ -16544,6 +16563,8 @@ plzpf.com
 pm.me
 pmatehunter.com
 pmates.com
+pmem.org
+pmem.us
 pnas.org
 po2b.com
 pobieramy.top
@@ -17112,6 +17133,7 @@ project-syndicate.org
 projectapex.com
 projectara.com
 projectbaseline.com
+projectcircuitbreaker.com
 projecteuclid.org
 projectjav.com
 projectmurphy.net
@@ -17652,6 +17674,7 @@ religionnews.com
 religioustolerance.org
 remirepo.net
 renchead.com
+renderingtoolkit.org
 renderos.com
 reneerossvideos.com
 renminbao.com
@@ -18606,9 +18629,12 @@ signalprocessingsociety.org
 signalr.net
 signalusers.org
 sigops.org
+sigopt.com
 sijihuisuo.club
 sijihuisuo.com
 sikiswap.com
+silicon-mobility.com
+siliconmobility.com
 silkbook.com
 silkengirl.com
 silverchair-cdn.com
@@ -18784,9 +18810,15 @@ sm.ms
 sm3ha.ru
 smallteenpussy.com
 smart-edge.com
+smart-edge.info
+smart-edge.io
+smart-edge.net
+smart-edge.org
+smart-edge.systems
 smartcommunitiescoalition.com
 smartcommunitiescoalition.org
 smartdnsproxy.com
+smartedge.info
 smartexpos.com
 smartfea.com
 smarthide.com
@@ -19074,6 +19106,7 @@ spiritclubs.com
 spiritofecstasy.com
 spizoo.com
 splatoon2tournament.com
+splunk.com
 spo-msedge.net
 spore.com
 sportsfacebook.com
@@ -19330,6 +19363,8 @@ stonefoxlingerie.com
 stonefoxproductions.com
 stoporganharvesting.org
 stoptibetcrisis.net
+storageclassmemory.io
+storageclassmemory.org
 storagenewsletter.com
 store-bridgestonesports.com
 storesense.com
@@ -20073,6 +20108,7 @@ thothub.ru
 thothub.to
 thottok.com
 thotvids.com
+threadingbuildingblocks.org
 threadreaderapp.com
 threads.com
 threads.net
@@ -20844,9 +20880,12 @@ uhairy.com
 uhdwallpapers.org
 uhrp.org
 uhub.com
+ui-portal.de
 ui.com
+uicdn.com
 uighur.nl
 uighurbiz.net
+uimserv.net
 uiporn.com
 uisp.com
 ujapanesesex.com
@@ -20901,6 +20940,7 @@ unity.com
 universalorlando.com
 universalpictures.com
 universalpicturesinternational.com
+universalscalablefirmware.org
 universalstudioshollywood.com
 universitypressscholarship.com
 unix100.com
