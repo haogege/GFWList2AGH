@@ -602,6 +602,7 @@ aalah.me
 aamacau.com
 aanaan.com
 aapl.tw
+aastocks.com
 aave.com
 aavs.xyz
 abbywintersfree.com
@@ -4794,6 +4795,7 @@ chromecast.com
 chromeenterprise.google
 chromeexperiments.com
 chromeos.dev
+chromeos.google
 chromercise.com
 chromestatus.com
 chronicle.security
@@ -8939,6 +8941,7 @@ gelbooru.me
 gemfire.net
 gemfury.com
 gemini.com
+gemini.google
 gen.tr
 gendai.net
 generated.photos
@@ -9286,6 +9289,7 @@ goodsdunk.net
 goodsexporn.org
 goodsrv.de
 goodtv.tv
+goody25.com
 goofind.com
 googel.com
 googel.de
@@ -9820,6 +9824,7 @@ headphonesretailer.com
 headphonessupply.com
 headphonezip.com
 headset987.com
+health.google
 health026.click
 healthcarecareeronline.com
 healthreach.hk
@@ -10164,6 +10169,7 @@ hkjc.com
 hkjp.org
 hklft.com
 hkmap.live
+hkong.hk
 hkopentv.com
 hkpeanut.com
 hkporn.net
@@ -15276,6 +15282,7 @@ norsk.mobi
 norton.com
 nos.nl
 note.com
+notebooklm.google
 notepad-plus-plus.org
 notion-static.com
 notion.com
@@ -16514,6 +16521,7 @@ platinumlinks.org
 play-asia.com
 play-bmm.shop
 play-bmmer.buzz
+play.google
 play4free.com
 playapex.com
 playartifact.com
@@ -18622,6 +18630,7 @@ sibreal.org
 siddharthasintent.org
 sidelinesnews.com
 sidelinessportseatery.com
+sidewalklabs.com
 siege-amazon.com
 sierrafriendsoftibet.org
 sigcomm.org
