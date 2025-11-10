@@ -5133,6 +5133,8 @@ codivorexxx.com
 coedcherry.com
 cofacts.tw
 coffeemanga.to
+cohere.ai
+cohere.com
 coinalyze.net
 coinbase.com
 coinbene.com
@@ -19899,6 +19901,7 @@ tenor.com
 tensorflow.org
 tenzinpalmo.com
 terabox.com
+teraboxcdn.com
 terapeack.com
 terapeak.ca
 terapeak.com
