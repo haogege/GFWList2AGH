@@ -891,6 +891,7 @@ afantibbs.com
 afappyending.com
 afewmomentswith.com
 affect3dstore.com
+affinity.studio
 affirmtrust.com
 afkv28.com
 aflamporn.com
@@ -2613,6 +2614,7 @@ bcmorning.com
 bcove.video
 bcovlive.io
 bcrncdn.com
+bcvcdn.com
 bcvp0rtal.com
 bcy01.com
 bdsm-mov.net
@@ -3057,6 +3059,7 @@ bg-call-donation-alpha.goog
 bg-call-donation-canary.goog
 bg-call-donation-dev.goog
 bg-call-donation.goog
+bgicdn.com
 bgm.tv
 bgme.me
 bgov.com
@@ -4349,6 +4352,7 @@ canonfoundation.org
 canonical.com
 canonproprinters.com
 cantonese.asia
+canva.com
 canyu.org
 cao.im
 caobian.info
@@ -9441,6 +9445,7 @@ googleartproject.com
 googleblog.com
 googlebot.com
 googlecapital.com
+googlecensorship.org
 googlecert.net
 googlechinawebmaster.com
 googlecode.com
@@ -9558,6 +9563,7 @@ great-firewall.com
 great-roc.org
 greatergothammini.com
 greatfire.org
+greatfirevpn.com
 greatfirewall.biz
 greatfirewallofchina.org
 greatretroporn.com
@@ -14845,6 +14851,7 @@ nenitas.club
 nentindo.net
 neo-miracle.com
 neoforged.net
+neovim.io
 neow.in
 neowin.net
 nerdnudes.com
@@ -18259,6 +18266,7 @@ sequence.com
 ser7.cc
 serbiporno.net
 serialssolutions.com
+serifservices.com
 serlucap.lol
 serlutv258.xyz
 servehttp.com
@@ -23546,6 +23554,7 @@ zeit.co
 zeit.sh
 zeitworld.com
 zello.com
+zen-browser.app
 zen8ok.xyz
 zencdn.net
 zencoder.com
