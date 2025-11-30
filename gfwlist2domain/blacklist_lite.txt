@@ -15718,6 +15718,8 @@ okcoin.com
 okex.com
 okk.tw
 okkisokuho.com
+okko.sport
+okko.tv
 okpool.me
 okx-dns.com
 okx-dns1.com
@@ -16655,6 +16657,7 @@ player.fm
 playerjs.io
 playfab.com
 playfabapi.com
+playfamily.ru
 playforceone.com
 playhearthstone.com
 playmation.com
