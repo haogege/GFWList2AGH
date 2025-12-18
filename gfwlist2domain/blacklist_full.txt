@@ -3670,6 +3670,7 @@ bisyoujyogyaruge.topaz.ne.jp
 bit-z.com
 bit.do
 bit.ly
+bitbaby.com
 bitballoon.com
 bitbank.cc
 bitbay.net
@@ -12484,6 +12485,7 @@ id.heroku.com
 id.taipei
 idaiwan.com
 idarkdoll.com
+idcflare.com
 idea-server.com
 ideal-teens.com
 ideapocket.com
@@ -17066,6 +17068,7 @@ nde.de
 ndi.org
 ndr.de
 ndtv.com
+ne.jp
 near.by
 nebay.net
 neborder.com
