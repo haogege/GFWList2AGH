@@ -7307,6 +7307,8 @@ dmcdn.net
 dmed.technology
 dmgmediaprivacy.co.uk
 dmhy.org
+dmit.io
+dmit.sh
 dml-lang.org
 dmm-extension.com
 dmm.co.jp
@@ -7771,6 +7773,7 @@ dynssl.com
 dynu.com
 dynu.net
 dynupdate.no-ip.com
+dzcdn.net
 dzen.ru
 dzeninfra.ru
 dzze.com
@@ -8276,6 +8279,7 @@ entrust.cn
 entrust.com
 entrust.net
 entrustdatacard.com
+eotarchive.org
 epac.to
 epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com
 epic.network
@@ -10418,6 +10422,7 @@ ghbi.ir
 ghcr.io
 ghettotube.com
 ghidra-sre.org
+ghostarchive.org
 ghostgames.com
 ghostpath.com
 ghut.org
@@ -15643,6 +15648,7 @@ meltoday.com
 meme111.com
 memealerts.com
 memehk.com
+mementoweb.org
 memes.tw
 memorybbs.com
 memri.org
@@ -18887,6 +18893,7 @@ perfecttitspics.com
 perfectvpn.net
 periscope.tv
 perl.org
+perma.cc
 perplexity.ai
 perplexity.com
 persagg.com
@@ -22401,6 +22408,7 @@ static-hamivideo.cdn.hinet.net
 static-nike.com
 static-verizon.com
 static.fun
+static.pocketcasts.com
 static.shemalez.com
 static.siege-amazon.com
 static01.nyt.com
@@ -25624,6 +25632,7 @@ webcammedellin.co
 webcams.tv
 webcamtubexxx.com
 webchannel-alkalimakersuite-pa.clients6.google.com
+webcitation.org
 webevader.org
 webex.ca
 webex.co.in
