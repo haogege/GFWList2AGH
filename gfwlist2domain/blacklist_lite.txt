@@ -9677,6 +9677,7 @@ greginhollywood.com
 gridaware.app
 grindr.com
 grok.com
+grokipedia.com
 grooby.com
 groq.com
 grotty-monday.com
@@ -21385,6 +21386,7 @@ usvimosquito.com
 usvimosquitoproject.com
 utopianpal.com
 uu-gg.com
+uug22.com
 uug23.com
 uug25.com
 uug26.com
@@ -22194,7 +22196,12 @@ vr.org
 vraiesagesse.net
 vrbgay.com
 vrcams.io
+vrcdn.cloud
+vrcdn.live
+vrcdn.video
+vrchat.cloud
 vrchat.com
+vrchat.net
 vred-essentials.com
 vredessentials.com
 vredprofessional.com
