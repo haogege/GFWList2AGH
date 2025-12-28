@@ -7358,7 +7358,6 @@ dockerstatus.com
 docleradn.com
 doclercdn.com
 docs.com
-docs.deno.com
 docs.new
 docs.rs
 doctor-videos.com
@@ -10408,6 +10407,7 @@ gfw.org.ua
 gfw.press
 gfw.report
 gfwatch.org
+gfwbao.com
 gfx.ms
 gfycat.com
 gfysex.com
@@ -13469,6 +13469,7 @@ iss138.com
 issitedownrightnow.com
 issquaredown.com
 issquareup.com
+issues.chromium.org
 issuu.com
 istars.co.nz
 istef.info
@@ -22460,6 +22461,7 @@ steamcontent.com
 steamdb.info
 steamdeck.com
 steamgames.com
+steamladder.com
 steammobile.akamaized.net
 steamofporn.com
 steampipe-kr.akamaized.net
