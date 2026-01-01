@@ -4694,6 +4694,8 @@ bumptop.org
 bumptunes.com
 bunbunhk.com
 bunka.go.jp
+bunny.net
+bunnycdn.com
 bunnylust.com
 burningcamel.com
 burstly.net
@@ -18807,6 +18809,7 @@ pdf.new
 pdncommunity.com
 pdproxy.com
 pds.nasa.gov
+pdst.fm
 pdxbmw.com
 peace.ca
 peacefire.org
@@ -24383,6 +24386,7 @@ unwire.hk
 uo.com
 uocn.org
 uoherald.com
+up.audio
 up01.cc
 upbit.com
 updates.tdesktop.com
