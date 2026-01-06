@@ -1125,6 +1125,7 @@ ai.dev
 ai.google
 ai.google.dev
 ai.ls
+ai.studio
 ai7995.site
 ai91porn.cc
 aiaa.org
@@ -20855,13 +20856,13 @@ rustdesk.com
 rustup.rs
 rusvpn.com
 ruten.com.tw
+rutor.info
 rutracker.cc
 rutracker.cr
 rutracker.me
 rutracker.net
 rutracker.nl
 rutracker.org
-rutrecker.net
 rutrk.org
 rutube.ru
 rutubelist.ru
