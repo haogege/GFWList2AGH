@@ -1800,7 +1800,9 @@ anthonycalzadilla.com
 anthropic.com
 anti1984.com
 antichristendom.com
+antigravity-pa.googleapis.com
 antigravity.google
+antigravity.googleapis.com
 antisocial.science
 antiwave.net
 antpool.com
@@ -5813,11 +5815,13 @@ clojure.org
 clonoth.com
 cloud.dify.ai
 cloud.mail.ru
+cloudaicompanion.googleapis.com
 cloudapp.net
 cloudappsecurity.com
 cloudburstresearch.com
 cloudc.one
 cloudchoose.com
+cloudcode-pa.googleapis.com
 cloudcone.com
 cloudcone.net
 cloudconvert.com
@@ -6608,6 +6612,7 @@ dagelijksestandaard.nl
 dagfs.com
 daidostup.ru
 daiichibank.co.jp
+daily-cloudcode-pa.googleapis.com
 dailybasis.com
 dailym.ai
 dailymail.co.uk
@@ -7162,6 +7167,7 @@ digitaltrends.com
 diigo.com
 dilber.se
 dilcdn.com
+dinopoloclub.com
 dinotube.com
 dipity.com
 dirctv.com
@@ -16468,6 +16474,7 @@ mobilepornmovies.com
 mobileview.page
 mobilevrxxx.com
 mobileways.de
+mobimon.com.tw
 mobmyanmar.com
 moby.to
 mobypicture.com
@@ -17856,7 +17863,9 @@ nos.nl
 notary-submissions-prod.s3-accelerate.amazonaws.com
 notary-submissions-prod.s3.us-west-2.amazonaws.com
 note.com
+notebooklm-pa.googleapis.com
 notebooklm.google
+notebooklm.googleapis.com
 notepad-plus-plus.org
 notify.dropboxapi.com
 notify.ppy.sh
@@ -17887,6 +17896,7 @@ nowjav.com
 nownews.com
 nowtorrents.com
 noxinfluencer.com
+noxygames.com
 noypf.com
 nozomi.la
 npa.go.jp
@@ -20400,6 +20410,8 @@ raw.githack.com
 rawgit.com
 rawgithub.com
 rawstory.com
+rayark.download
+rayark.net
 razer.com
 razerofficial.com
 razersupport.com
