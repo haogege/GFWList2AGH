@@ -9145,6 +9145,7 @@ geobasket.ru
 geocities.com
 geocities.jp
 geodesummit.com
+geogebra.org
 geolytics.com
 geoport.com
 geospatialimaging.com
@@ -22741,6 +22742,7 @@ wiiugamepad.com
 wiivc.net
 wikaba.com
 wikawika.xyz
+wiki.gg
 wikia.com
 wikia.org
 wikibooks.org
@@ -22866,6 +22868,7 @@ wokar.org
 wolfatbestbuy.com
 wolfatbestbuy.net
 wolfax.com
+wolframalpha.com
 wolfsex-me.sbs
 wolterskluwer.com
 wombo.ai

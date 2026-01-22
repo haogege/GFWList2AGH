@@ -10347,6 +10347,7 @@ geocities.co.jp
 geocities.com
 geocities.jp
 geodesummit.com
+geogebra.org
 geolytics.com
 geoport.com
 geospatialimaging.com
@@ -25925,6 +25926,7 @@ wikawika.xyz
 wiki.cnitter.com
 wiki.esu.im
 wiki.gamerp.jp
+wiki.gg
 wiki.jqueryui.com
 wiki.keso.cn
 wiki.kfd.me
@@ -26072,6 +26074,7 @@ wokar.org
 wolfatbestbuy.com
 wolfatbestbuy.net
 wolfax.com
+wolframalpha.com
 wolfsex-me.sbs
 wolterskluwer.com
 wombo.ai
